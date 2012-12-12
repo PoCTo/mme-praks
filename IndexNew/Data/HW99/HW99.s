@@ -1,0 +1,4293 @@
+1
+1093# Genius GeniMouse 3 button
+2
+1094# Genius GeniMouse 3 button 
+3
+1527# Дж-к Genius Flight 2000 F-
+4
+1529# Дж-к Genius Flight 2000 F-
+5
+1530# Дж-к Genius Flight 2000 F-
+6
+1531# Дж-к Genius Flight 2000/Ma
+7
+1534# Геймпад Genius MaxFire G-0
+8
+1535# Геймпад Genius Power Stati
+9
+2096# Genius NetMouse 21 btn PnP
+10
+2097# Mouse Serial типа AK77
+11
+2098# Mouse            PS/2 ( ти
+12
+2099# Genius MouseDear 2 button 
+13
+2100# Genius EasyMouse+ Plus 3 b
+14
+2101# Genius EasyMouse+ Plus 3 b
+15
+2102# Genius MouseDear 2 button 
+16
+2103# Genius MyMouse Mouse 2000 
+17
+2104# Genius NetMouse 21 btn PnP
+18
+2105# Genius MouseOne 3 button 3
+19
+2106# Genius Optical Mouse 3 but
+20
+2107# Genius PALmouse 3 button
+21
+2108# Genius EasyScroll Mouse 5 
+22
+2109# Genius EasyMouse 3 button
+23
+2110# Genius NetMouse 21 btn PnP
+24
+2111# Genius EasyMouse 2 button 
+25
+2112# Microsoft ErgoMouse 2 butt
+26
+2113# Mitsumi Mouse 2 button PS2
+27
+2114# Mitsumi Mouse 2 button
+28
+2115# Microsoft ErgoMouse 2 butt
+29
+2116# Microsoft ErgoMouse 2 butt
+30
+2118# Genius Mouse3 3 button 400
+31
+2119# Mitsumi Scroll Mouse   2 b
+32
+2121# Genius NetMouse PRO PnP 40
+33
+2122# Genius NetMouse PRO 4 butt
+34
+2123# Genius NetScroll   3btn+Ro
+35
+2124# Genius NetScroll   2 btn  
+36
+2125# Genius NewScroll 3 btn+Sur
+37
+2128# Logitech Mouse         <M-
+38
+2129# Logitech Mouse MM35 3 but 
+39
+2133# Logitech MouseMan 4 button
+40
+2135# Logitech Mouse  <M-S48/48a
+41
+2137# Logitech MouseMan  <M-CQ38
+42
+2138# Logitech Mouse         <M-
+43
+2139# Logitech Mouse MS35 3 but 
+44
+2909# Трекбол Logitech TrackMan 
+45
+3218# Genius NewScroll Wireless 
+46
+3261# Genius MouseToo  3 button 
+47
+3267# Genius NetMouse PRO 4 butt
+48
+3296# Logitech Mouse         <M-
+49
+3337# Дж-к Genius Flight 2000 F-
+50
+3362# Genius ScrollMouse  3 btn+
+51
+3363# Genius ScrollMouse  3 btn+
+52
+3364# Трекбол Genius Easy Trak  
+53
+3515# Геймпад Genius MaxFire G-0
+54
+3774# Microsoft IntelliMouse 3 b
+55
+3885# Genius MouseDear 2 button 
+56
+3944# Mitsumi Wireless Scroll Mo
+57
+3949# Logitech Mouse  <M-UB48/U4
+58
+4007# Mitsumi Scroll Mouse   2 b
+59
+4171# Genius EasyMouse+ Plus 3 b
+60
+4191# Logitech MouseMan  <M-S38>
+61
+4537# Дж-к Genius Flight 2000/Ma
+62
+4640# Mouse KM-203U 3 button  US
+63
+4685# Genius NetMouse Wheel 3 bt
+64
+4761# Logitech MouseMan Wheel   
+65
+4796# Дж-к Genius Flight 2000/Ma
+66
+4826# Logitech Pilot Wheel Mouse
+67
+4827# Logitech First Mouse  <M-S
+68
+4878# Logitech Mouse         <M-
+69
+4971# Genius NetScroll+Plus  3bt
+70
+4972# Genius NetScroll+Plus  3bt
+71
+543# CD Writer 4x8x COMPRO CDR75
+72
+549# CD Writer 4x/12x  TEAC SCSI
+73
+557# CD ROM DRIVE 12X SCSI SONY 
+74
+563# CD ROM DRIVE 12X IDE Pionee
+75
+566# CD ROM DRIVE 16X IDE BTC (B
+76
+571# CD ROM DRIVE 20X IDE CyberD
+77
+578# CD ROM DRIVE 24X IDE Creati
+78
+579# CD ROM DRIVE 24X IDE Creati
+79
+580# CD ROM DRIVE 24X IDE CyberD
+80
+582# CD ROM DRIVE 24X IDE IMES  
+81
+585# CD ROM DRIVE 24X IDE Momits
+82
+589# CD ROM DRIVE 24X IDE Samsun
+83
+590# CD ROM DRIVE 24X IDE Sony C
+84
+591# CD ROM DRIVE 24X IDE TEAC (
+85
+593# CD ROM DRIVE 24X IDE Hitach
+86
+594# CD ROM DRIVE 24X  <SCSI>  N
+87
+597# CD ROM DRIVE 32X  <SCSI>  T
+88
+598# CD ROM DRIVE 32X  <SCSI>  T
+89
+599# CD ROM DRIVE 32X IDE BenQ(A
+90
+600# CD ROM DRIVE 32X IDE Creati
+91
+601# CD ROM DRIVE 32X IDE Creati
+92
+602# CD ROM DRIVE 32X IDE LG CRD
+93
+603# CD ROM DRIVE 32X IDE LG CRD
+94
+604# CD ROM DRIVE 32X IDE Mitsum
+95
+605# CD ROM DRIVE 32X IDE Panaso
+96
+606# CD ROM DRIVE 32X IDE Philip
+97
+607# CD ROM DRIVE 32X IDE Pionee
+98
+608# CD ROM DRIVE 32X IDE Samsun
+99
+609# CD ROM DRIVE 32X IDE Sony C
+100
+610# CD ROM DRIVE 32X IDE TEAC C
+101
+612# CD ROM DRIVE 34X IDE ASUSTe
+102
+613# CD ROM DRIVE 34X IDE Mitsum
+103
+614# CD ROM DRIVE 36X IDE BenQ(A
+104
+615# CD ROM DRIVE 36X IDE ASUSTe
+105
+616# CD ROM DRIVE 36X IDE BTC (B
+106
+617# CD ROM DRIVE 36X IDE Creati
+107
+618# CD ROM DRIVE 36X IDE Philip
+108
+619# CD ROM DRIVE 36X IDE Pionee
+109
+620# CD ROM DRIVE 36X  <SCSI>  P
+110
+621# CD ROM DRIVE 40X  <SCSI>  T
+111
+622# CD ROM DRIVE 40X IDE ASUSTe
+112
+623# CD ROM DRIVE 40X IDE Creati
+113
+624# CD ROM DRIVE 40X IDE Genius
+114
+625# CD ROM DRIVE 40X IDE Philip
+115
+626# CD ROM DRIVE 48X IDE Creati
+116
+635# CD ROM DRIVE 50X IDE ASUSTe
+117
+646# CD ROM DRIVE 8X SCSI Philip
+118
+647# CD ROM DRIVE 8X IDE BTC BCD
+119
+648# CD ROM DRIVE 8X IDE LG OEM
+120
+663# CD ROM DRIVE 12X IDE Creati
+121
+666# CD ROM DRIVE 32X IDE Creati
+122
+667# CD ROM DRIVE 36X IDE Creati
+123
+671# CD Writer 2x/8x    Mitsumi 
+124
+672# CD Writer 4x/8x    Mitsumi 
+125
+673# CD Writer 4x/8x    Panasoni
+126
+674# CD Writer 4x/8x    Panasoni
+127
+676# CD-ReWriter 2x/2x/6x     hp
+128
+677# CD R-W Drive 2x/6x hp Plus 
+129
+678# CD-ReWriter 2x/2x/6x     hp
+130
+679# CD-ReWriter 4x/2x/24x   hp 
+131
+681# CD-ReWriter 2x/2x/6x     Be
+132
+682# CD-ReWriter 4x/4x/16x   COM
+133
+683# CD-ReWriter 2x/2x/6x  Phili
+134
+684# CD-ReWriter 2x/2x/6x  Phili
+135
+685# CD-ReWriter 2x/2x/6x   Phil
+136
+687# CD-ReWriter 2x/2x/6x      S
+137
+689# CD-ReWriter 4x/2x/6x      Y
+138
+690# CD-ReWriter 4x/4x/16x    Ya
+139
+691# CD-ReWriter 4x/4x/16x    Ya
+140
+692# CD-ReWriter 4x/4x/16x    Ya
+141
+693# CD Writer 4x/8x    COMPRO C
+142
+1002# DVD ROM 4x/24x   Hitachi G
+143
+1003# DVD ROM 2x20x Creative PCD
+144
+1004# DVD ROM 5x/32x   Creative 
+145
+1006# DVD ROM 6x/32x   Pioneer 1
+146
+1008# DVD ROM Kit 5x/32x Sony (D
+147
+1009# DVD ROM 2x/20x   Hitachi G
+148
+1010# DVD ROM 4x/32x   Panasonic
+149
+1011# DVD ROM 5x/32x   Toshiba S
+150
+1067# FDD 35 LS120 120 Mb
+151
+1070# FDD 35 HD ALPS
+152
+1071# FDD 35 HD Mitsumi
+153
+1073# FDD 35 HD Panasonic
+154
+1074# FDD 35 HD Samsung
+155
+1075# FDD 35 HD Sony
+156
+1076# FDD 3.5 HD TEAC
+157
+1077# FDD 3.5 HD TechMedia TFT-3
+158
+1078# FDD 5.25 HD
+159
+1517# Jaz Drive I Omega  <2 Gb> 
+160
+1518# Jaz Drive I Omega  <2 Gb> 
+161
+1520# Zip Drive 100 Mb int IDE A
+162
+1521# Zip Drive I Omega 100 Mb e
+163
+1522# Zip Drive I Omega 100 Mb i
+164
+1524# Zip Drive I Omega 100 Mb e
+165
+3186# Zip Drive I Omega 100 Mb e
+166
+3227# CD ROM DRIVE 24X IDE Phili
+167
+3228# CD-ReWriter 4x/2x/24x    S
+168
+3234# DVD ROM 5x/32x   Sony (DDU
+169
+3280# CD ROM DRIVE 40X IDE BenQ(
+170
+3285# CD ROM DRIVE 40X IDE DELTA
+171
+3319# CD-ReWriter 4x/4x/16x    Y
+172
+3375# CD-ReWriter 4x/2x/8x     M
+173
+3395# DVD ROM 2x/24x   Toshiba S
+174
+3413# CD-ReWriter 4x/4x/16x    P
+175
+3414# Zip Drive I Omega 250 Mb e
+176
+3451# CD ROM DRIVE 40X  <SCSI>  
+177
+3452# DVD ROM 5x/32x   Toshiba S
+178
+3459# CD ROM DRIVE 32X  <SCSI>  
+179
+3464# CD ROM DRIVE 16X IDE Funai
+180
+3490# DVD/MPEG-2 Playback Card  
+181
+3494# CD-ReWriter 2x/2x/6x  Phil
+182
+3510# CD ROM DRIVE 48X IDE Creat
+183
+3514# CD ROM DRIVE 40X IDE Samsu
+184
+3523# FDD 3.5 LS-120  <2x>  (LKM
+185
+3577# CD ROM DRIVE 48X IDE Phili
+186
+3578# DVD ROM 5x/32x   Creative 
+187
+3588# CD ROM DRIVE 40X IDE Cyber
+188
+3695# CD-ReWriter 2x/2x/24x   hp
+189
+3696# CD-ReWriter 4x/4x/24x   hp
+190
+3737# DVD ROM 6x/24x   Creative 
+191
+3780# CD ROM DRIVE 40X IDE Mitsu
+192
+3801# CD ROM DRIVE 45X IDE ASUST
+193
+3803# DVD ROM 6x/24x   Hitachi G
+194
+3805# CD ROM DRIVE 36X IDE Geniu
+195
+3861# CD-ReWriter 4x/2x/8x     M
+196
+3868# DVD ROM 5x/32x   Creative 
+197
+3891# CD-ReWriter 2x/2x/24x    P
+198
+3894# FDD 3.5 HD NEC
+199
+3898# DVD ROM 5x/32x   Samsung S
+200
+3950# CD ROM DRIVE 40X IDE NEC (
+201
+3988# CD-ReWriter 4x/4x/20x     
+202
+3989# CD-ReWriter 4x/4x/20x     
+203
+4028# CD ROM DRIVE 24X IDE ACTIM
+204
+4071# CD-ReWriter 2x/4x/24x   Cr
+205
+4079# CD-ReWriter 4x/4x/16x    Y
+206
+4083# CD-ReWriter 4x/4x/24x    S
+207
+4089# CD ROM DRIVE 40X IDE CTX C
+208
+4111# CD ROM DRIVE 40X IDE LG CR
+209
+4125# CD ROM DRIVE 40X IDE Pione
+210
+4137# CD-ReWriter 2x/2x/6x     h
+211
+4140# CD Writer 8x/20x  Panasoni
+212
+4141# DVD ROM 6x/24х   Toshiba S
+213
+4177# CD ROM DRIVE 40X IDE Sony 
+214
+4205# CD ROM DRIVE 48X IDE BTC (
+215
+4258# CD Writer 6x/24x  TEAC SCS
+216
+4277# CD ROM DRIVE 36X IDE Toshi
+217
+4288# CD ROM DRIVE 12X Toshiba X
+218
+4294# CD-ReWriter 6x/4x/16x    Y
+219
+4295# CD-ReWriter 6x/4x/16x    Y
+220
+4296# CD ROM DRIVE 36X IDE Artec
+221
+4302# CD ROM DRIVE 40X  <SCSI>  
+222
+4305# CD ROM DRIVE 40X IDE BTC (
+223
+4375# DVD ROM 6x/32x   Pioneer D
+224
+4397# CD-ReWriter 6x/4x/16x    Y
+225
+4398# CD ROM DRIVE 50X IDE BenQ(
+226
+4412# CD ROM DRIVE 40X IDE Artec
+227
+4420# CD ROM DRIVE 32X IDE Cyber
+228
+4421# CD ROM DRIVE 36X IDE Cyber
+229
+4428# CD-ReWriter 4x/2x/8x     M
+230
+4430# DVD ROM 6x         Creativ
+231
+4435# CD-ReWriter 2x/2x/24x   hp
+232
+4445# CD ROM DRIVE 48X IDE LG CR
+233
+4475# DVD ROM 6x/32x   Pioneer D
+234
+4485# CD ROM DRIVE 40X IDE Samsu
+235
+4504# CD ROM DRIVE 44X IDE Geniu
+236
+4535# DVD ROM 6x/32x   Sony (DDU
+237
+4557# CD ROM DRIVE 12X IDE Creat
+238
+4558# DVD ROM 6x/32x   Pioneer D
+239
+4567# CD ROM DRIVE 32X IDE Creat
+240
+4596# CD ROM DRIVE 48X IDE Samsu
+241
+4643# CD ROM DRIVE 40X IDE Toshi
+242
+4693# CD-ReWriter 6x/4x/24x   Cr
+243
+4710# CD ROM DRIVE 44X IDE DELTA
+244
+4733# CD-ReWriter 8x/4x/32x   hp
+245
+4735# DVD ROM 10x/40x Pioneer DV
+246
+4736# DVD ROM 6x/32x   Pioneer D
+247
+4792# CD-ReWriter 4x/4x/24x   Mi
+248
+4793# Zip Drive I Omega 250 Mb e
+249
+4809# DVD ROM 6x/32x   Sony (DDU
+250
+4841# CD-ReWriter 8x/4x/32x   hp
+251
+4860# CD-ReWriter 2x/2x/24x    P
+252
+4868# DVD ROM 5x/32x   Samsung S
+253
+4869# CD ROM DRIVE 48X IDE Mitsu
+254
+4874# Zip Drive 250 Mb int IDE A
+255
+4887# CD-ReWriter 4x/4x/24x   I 
+256
+4893# CD-ReWriter 6x/4x/16x COMP
+257
+4941# CD-ReWriter 4x/4x/24x   Cr
+258
+4943# CD-ReWriter 6x/4x/24x     
+259
+4949# CD ROM DRIVE 44X IDE Cyber
+260
+4950# CD ROM DRIVE 48X IDE DELTA
+261
+4951# DVD ROM 2x/20x   Creative 
+262
+4993# CD-ReWriter 4x/4x/6x      
+263
+5018# CD-ReWriter 4x/4x/32x   Be
+264
+5020# CD-ReWriter 6x/4x/24x     
+265
+5030# CD-ReWriter 4x/4x/24x Crea
+266
+5048# CD ROM DRIVE 52X IDE Creat
+267
+5058# CD ROM DRIVE 50X IDE CTX C
+268
+5067# DVD ROM 4x/32x   LG DRD-84
+269
+5155# CD ROM DRIVE 40X IDE Leopt
+270
+5171# CD-ReWriter 8x/4x/24x    Y
+271
+5229# DVD ROM 6x/32x   Creative 
+272
+731# Cooler for Slot1 SMART Al
+273
+732# Cooler for SECC-II (SMART, 
+274
+733# Cooler for Socket 3 3600обм
+275
+734# Cooler for Socket 7370 3600
+276
+736# Cooler for Socket 8 3600обм
+277
+737# Cooler for Celeron SLOT (SM
+278
+739# Вентилятор для корпуса 8см 
+279
+2523# Радиатор для Celeron SLOT 
+280
+2530# Retention m-m for Slot1
+281
+2531# Retention m-m for Celeron 
+282
+3288# Mega Cooler for Socket 7/3
+283
+3417# Cooler for Socket 7/370 (A
+284
+3477# Радиатор для Socket 370 (в
+285
+3871# Cooler for Socket 7/370/A(
+286
+3877# Cooler for Socket 370 (SMA
+287
+4245# Universal COOLER for Penti
+288
+4256# Dual Cooler for SECC-II (S
+289
+4257# Big Cooler for Socket 370 
+290
+4701# Big Cooler for Socket 370 
+291
+5061# Cooler for SECC-II/Celeron
+292
+197# 3D Accel 12Mb Diamond Monst
+293
+198# 3D Accel 12Mb Diamond Monst
+294
+200# 3D Accel 8Mb Diamond Monste
+295
+201# 3D Accel 8Mb Diamond Monste
+296
+203# 3D Accel 6Mb Canopus PURE 3
+297
+224# SVGA 4Mb AGP WRAM Matrox Mi
+298
+225# SVGA 16Mb  <AGP>  ASUSTeK V
+299
+226# SVGA 16Mb  <AGP>  ASUSTeK V
+300
+227# SVGA 16Mb  <AGP>  ASUSTeK V
+301
+228# SVGA 16Mb  <AGP>  ASUSTeK V
+302
+229# SVGA 16Mb  <AGP>  ATI Xpert
+303
+234# SVGA 16Mb  <AGP>  DM Monste
+304
+235# SVGA 16Mb  <AGP>  DM Monste
+305
+236# SVGA 16Mb  <AGP>  DM Viper 
+306
+237# SVGA 16Mb  <AGP>  DM Viper 
+307
+238# SVGA 16Mb  <AGP>  DM Viper 
+308
+241# SVGA 2Mb  <AGP>  ASUSTeK V2
+309
+243# SVGA 2Mb  <AGP>  ASUSTeK V2
+310
+244# SVGA 2Mb  <AGP>  ATI Charge
+311
+251# SVGA 4Mb  <AGP>  DS FIRE GL
+312
+252# SVGA 4Mb AGP DM Viper 330 R
+313
+254# SVGA 4Mb  <AGP>  ASUSTeK V2
+314
+255# SVGA 4Mb AGP ASUSTeK V3000 
+315
+256# SVGA 4Mb  <AGP>  ASUSTeK V1
+316
+258# SVGA 4Mb  <AGP>  ASUSTeK V3
+317
+259# SVGA 4Mb  <AGP>  ATI Charge
+318
+260# SVGA 4Mb  <AGP>  ATI Xpert 
+319
+261# SVGA 4Mb AGP ATI Xpert Work
+320
+262# SVGA 4Mb AGP ATI Xpert Play
+321
+277# SVGA 8Mb  <AGP>  Diamond St
+322
+278# SVGA 8Mb  <AGP>  DS FIRE GL
+323
+279# SVGA 8Mb  <AGP>  DM SpeedSt
+324
+282# SVGA 8Mb  <AGP>  ASUSTeK V3
+325
+283# SVGA 8Mb  <AGP>  ASUSTeK V2
+326
+284# SVGA 8Mb  <AGP>  ASUSTeK V2
+327
+285# SVGA 8Mb  <AGP>  ASUSTeK V3
+328
+286# SVGA 8Mb  <AGP>  ASUSTeK V3
+329
+287# SVGA 8Mb  <AGP>  ASUSTeK V3
+330
+288# SVGA 8Mb  <AGP>  ASUSTeK V3
+331
+289# SVGA 8Mb AGP ATI Xpert Work
+332
+291# SVGA 8Mb  <AGP>  ATI Xpert 
+333
+292# SVGA 8Mb  <AGP>  ATI Xpert 
+334
+293# SVGA 8Mb  <AGP>  ATI Xpert 
+335
+294# SVGA 8Mb  <AGP>  ATI Xpert 
+336
+296# SVGA 8Mb  <AGP>  DM Viper 5
+337
+299# SVGA 8Mb  <AGP>  Matrox MGA
+338
+300# SVGA 8Mb  <AGP>  Matrox Mil
+339
+301# SVGA 8Mb  <AGP>  Matrox Mys
+340
+302# SVGA 8Mb  <AGP>  Matrox Mys
+341
+303# SVGA 8Mb  <AGP>  Matrox Pro
+342
+2155# Upgrade Module 8Mb SGRAM д
+343
+2366# SVGA 1Mb PCI S3Trio 64V up
+344
+2370# SVGA 16Mb   PCI     DM Vip
+345
+2376# SVGA 1Mb PCI DS64 2121 VID
+346
+2383# SVGA 1Mb PCI S3Trio 64V2 D
+347
+2400# SVGA 2Mb PCI ATI XPRS OEM 
+348
+2406# SVGA 2Mb PCI VRAM DS Virge
+349
+2408# SVGA 2Mb PCI VRAM DS64 324
+350
+2416# SVGA 2Mb PCI WRAM Matrox M
+351
+2420# SVGA 2Mb PCI S3 Virge 3D D
+352
+2421# SVGA 2Mb PCI S3 Virge 3D
+353
+2424# SVGA 2Mb PCI S3 Virge TV T
+354
+2427# SVGA 4Mb PCI DS FIRE GL 10
+355
+2436# SVGA 4Mb  <PCI>    ASUSTeK
+356
+2437# SVGA 4Mb  <PCI>    ASUSTeK
+357
+2439# SVGA 4Mb PCI ATI Charger O
+358
+2447# SVGA 4Mb PCI ATI Xpert Wor
+359
+2448# SVGA 4Mb PCI ATI Xpert Pla
+360
+2453# SVGA 4Mb PCI DS II S220 Re
+361
+2459# SVGA 4Mb PCI DM Viper 330 
+362
+2466# SVGA 4Mb PCI WRAM Matrox M
+363
+2468# SVGA 4Mb PCI SGRAM Matrox 
+364
+2470# SVGA 4Mb PCI S3 Virge 3D D
+365
+2474# SVGA 8Mb PCI DS FIRE GL 10
+366
+2479# SVGA 8Mb  <PCI>    ASUSTeK
+367
+2481# SVGA 8Mb PCI ATI PRO Turbo
+368
+2484# SVGA 8Mb  <PCI>  ATI Xpert
+369
+2491# SVGA 8Mb     PCI   VRAM 32
+370
+2832# 3D Accel 4Mb Diamond Monst
+371
+2833# 3D Accel 4Mb Diamond Monst
+372
+2916# Matrox RainBow Runner for 
+373
+2918# Matrox RainBow Runner G-Se
+374
+2967# Upgrade Module 12Mb WRAM д
+375
+3263# SVGA 16Mb   PCI     DM Mon
+376
+3294# SVGA 32Mb  <AGP>  ATI Rage
+377
+3295# SVGA 8Mb  <AGP>  ATI Rage 
+378
+3351# SVGA 8Mb  <AGP>  ASUSTeK V
+379
+3394# SVGA 8Mb  <AGP>  ATI All i
+380
+3397# SVGA 8Mb  <AGP>  Matrox ME
+381
+3465# SVGA 16Mb  <AGP>  Matrox M
+382
+3470# SVGA 8Mb  <AGP>  ATI Charg
+383
+3583# SVGA 2Mb  <PCI>  ATI Charg
+384
+3589# SVGA 32Mb  <AGP>  ATI Rage
+385
+3740# SVGA 2Mb  <PCI>  ATI Video
+386
+3799# SVGA 4Mb  <AGP>  ASUSTeK V
+387
+3854# SVGA 32Mb  <AGP>  ASUSTeK 
+388
+3855# SVGA 32Mb  <AGP>  ASUSTeK 
+389
+3867# SVGA 16Mb  <AGP>  ATI Xper
+390
+3886# SVGA 32Mb  <AGP>  DM Viper
+391
+3887# SVGA 16Mb  <AGP>  ASUSTeK 
+392
+3942# SVGA 32Mb  <AGP>  ASUSTeK 
+393
+3987# SVGA 16Mb  <AGP>  DM Viper
+394
+4087# SVGA 32Mb  <AGP>  DM Steal
+395
+4119# SVGA 16Mb  <AGP>  DM Steal
+396
+4126# SVGA 32Mb  <AGP>  DM Viper
+397
+4181# SVGA 4Mb  <AGP>  ASUSTeK V
+398
+4291# SVGA 32Mb  <AGP>  ASUSTeK 
+399
+4332# SVGA 8Mb  <AGP>  ASUSTeK V
+400
+4407# SVGA 32Mb  <AGP>  ASUSTeK 
+401
+4408# SVGA 32Mb  <AGP>  ASUSTeK 
+402
+4426# SVGA 32Mb  <AGP>  Matrox G
+403
+4440# SVGA 4Mb  <AGP>  DM SpeedS
+404
+4442# SVGA 16Mb  <AGP>  Matrox G
+405
+4443# SVGA 32Mb  <AGP>  Matrox G
+406
+4476# SVGA 16Mb  <AGP>  ASUSTeK 
+407
+4477# SVGA 16Mb  <AGP>  ASUSTeK 
+408
+4478# SVGA 32Mb  <AGP>  ASUSTeK 
+409
+4491# SVGA 16Mb  <AGP>  ASUSTeK 
+410
+4717# SVGA 16Mb  <AGP>  ATI All 
+411
+4744# SVGA 32Mb  <AGP>  ASUSTeK 
+412
+4749# SVGA 32Mb  <AGP>  ATI Xper
+413
+4800# SVGA 4Mb  <PCI>  ATI Video
+414
+4977# SVGA 16Mb  <AGP>  ASUSTeK 
+415
+5066# SVGA 32Mb  <AGP>  ASUSTeK 
+416
+5195# SVGA 8Mb  <AGP>  ASUSTeK V
+417
+5200# SVGA 8Mb  <AGP>  DM SpeedS
+418
+12# Мобильное шасси для HDD 35 I
+419
+1101# HDD 12 Gb IDE Quantum Fire
+420
+1128# HDD 6.4 Gb IDE Western Dig
+421
+1129# HDD 64 Gb IDE Western Digi
+422
+1131# HDD 4.6 Gb Wide Ultra SCSI
+423
+1132# HDD 2.1 Gb SCSI Quantum Fi
+424
+1136# HDD 8.4 Gb SCSI Quantum Fi
+425
+1137# HDD 18.2 Gb Wide Ultra SCS
+426
+1141# HDD 45 Gb Wide Ultra SCSI 
+427
+1142# HDD 4.5 Gb Wide Ultra SCSI
+428
+1146# HDD 4.3 Gb IDE Seagate Med
+429
+1148# HDD 3.2 Gb IDE Seagate Med
+430
+1163# HDD 850 Mb IDE Quantum
+431
+1164# HDD 850 Mb IDE Seagate Med
+432
+1167# HDD 10.2 Gb IDE Quantum Fi
+433
+1169# HDD 1 Gb IDE Seagate 31012
+434
+1174# HDD 11 Gb IDE Seagate 3108
+435
+1179# HDD 1 Gb IDE Western Digit
+436
+1182# HDD 10.1 Gb IDE Western Di
+437
+1184# HDD 12.7 Gb IDE Quantum Fi
+438
+1187# HDD 12 Gb IDE Quantum Bigf
+439
+1188# HDD 13 Gb IDE Western Digi
+440
+1192# HDD 13 Gb IDE Seagate 3127
+441
+1194# HDD 13 Gb IDE Western Digi
+442
+1197# HDD 13 Gb IDE Western Digi
+443
+1198# HDD 1.3 Gb IDE Western Dig
+444
+1202# HDD 16 Gb IDE Samsung 3160
+445
+1203# HDD 1.6 Gb IDE Samsung  <W
+446
+1204# HDD 16 Gb IDE Western Digi
+447
+1205# HDD 16 Gb IDE Western Digi
+448
+1206# HDD 1.6 Gb IDE Seagate 2.5
+449
+1207# HDD 1.6 Gb IDE Western Dig
+450
+1210# HDD 17 Gb IDE Seagate 3172
+451
+1211# HDD 17 Gb IDE Seagate 3172
+452
+1214# HDD 18.3 Gb Ultra2 SCSI Se
+453
+1215# HDD 18.3 Gb Wide Ultra SCS
+454
+1222# HDD 2 Gb IDE Western Digit
+455
+1223# HDD 2 Gb IDE Western Digit
+456
+1224# HDD 2.1 Gb IDE Western Dig
+457
+1226# HDD 2.1 Gb IDE Quantum Fir
+458
+1227# HDD 21 Gb IDE Seagate 3212
+459
+1229# HDD 2.1 Gb IDE Fujitsu  <M
+460
+1232# HDD 21 Gb IDE Western Digi
+461
+1233# HDD 21 Gb IDE Western Digi
+462
+1234# HDD 21 Gb IDE Samsung WNWA
+463
+1235# HDD 2.1 Gb IDE Samsung  <W
+464
+1243# HDD 25 Gb IDE Seagate 3252
+465
+1245# HDD 25 Gb IDE Seagate 3253
+466
+1248# HDD 25 Gb IDE Western Digi
+467
+1249# HDD 2.5 Gb IDE Quantum Fir
+468
+1250# HDD 2.5 Gb IDE Western Dig
+469
+1251# HDD 25 Gb IDE Western Digi
+470
+1252# HDD 2.5 Gb IDE Western Dig
+471
+1253# HDD 5.1 Gb IDE Western Dig
+472
+1254# HDD 26 Gb IDE Fujitsu MPA3
+473
+1257# HDD 3.2 Gb IDE Samsung  <W
+474
+1258# HDD 31 Gb IDE Western Digi
+475
+1259# HDD 3.2 Gb IDE Quantum Fir
+476
+1261# HDD 3.2 Gb IDE Quantum Fir
+477
+1263# HDD 3.2 Gb IDE Fujitsu  <M
+478
+1265# HDD 3.2 Gb IDE Western Dig
+479
+1266# HDD 32 Gb IDE Western Digi
+480
+1267# HDD 32 Gb IDE Western Digi
+481
+1270# HDD 3.4 Gb IDE Samsung  <V
+482
+1272# HDD 4.3 Gb IDE Fujitsu  <M
+483
+1279# HDD 4 Gb IDE Western Digit
+484
+1280# HDD 4 Gb IDE Western Digit
+485
+1282# HDD 4.2 Gb IDE Western Dig
+486
+1288# HDD 4.3 Gb IDE Western Dig
+487
+1289# HDD 43 Gb IDE Western Digi
+488
+1295# HDD 46 Gb Wide Ultra SCSI 
+489
+1297# HDD 46 Gb Wide Ultra SCSI 
+490
+1298# HDD 4.6 Gb SCSI Seagate Ba
+491
+1300# HDD 51 Gb IDE Western Digi
+492
+1301# HDD 5.1 Gb IDE Quantum Fir
+493
+1305# HDD 6.4 Gb IDE Fujitsu  <M
+494
+1306# HDD 6.5 Gb IDE Fujitsu  <M
+495
+1310# HDD 6.4 Gb IDE Quantum Fir
+496
+1314# HDD 6.4 Gb IDE Seagate Med
+497
+1318# HDD 6.5 Gb IDE Seagate Med
+498
+1320# HDD 8.6 Gb IDE Seagate Med
+499
+1321# HDD 8 Gb IDE Quantum Bigfo
+500
+1323# HDD 8.4 Gb IDE Quantum Fir
+501
+1324# HDD 8.4 Gb IDE Western Dig
+502
+1325# HDD 8.4 Gb IDE Western Dig
+503
+1326# HDD 8.6 Gb IDE Seagate Med
+504
+1332# HDD 9.1 Gb Wide Ultra SCSI
+505
+1333# HDD 9.2 Gb Wide Ultra SCSI
+506
+1342# HDD 9.1 Gb Wide Ultra SCSI
+507
+1343# HDD 4.2/4.3 Gb IDE Western
+508
+1344# HDD 6.2 Gb IDE Western Dig
+509
+3209# HDD 4.5 Gb Ultra2 SCSI Sea
+510
+3210# HDD 4.6 Gb Ultra2 SCSI Sea
+511
+3251# HDD 20.4 Gb IDE Western Di
+512
+3252# HDD 8.4 Gb IDE Fujitsu  <M
+513
+3289# HDD 4.3 Gb IDE Fujitsu  <M
+514
+3291# HDD 4.3 Gb IDE Seagate Med
+515
+3300# HDD 8.4 Gb IDE Quantum Fir
+516
+3302# HDD 9.2 Gb Ultra2 SCSI Sea
+517
+3316# HDD 9.2 Gb Wide Ultra SCSI
+518
+3318# HDD 6.4 Gb IDE Fujitsu  <M
+519
+3355# HDD 8.4 Gb IDE Fujitsu  <M
+520
+3370# HDD 4.3 Gb IDE Quantum Fir
+521
+3374# HDD 4.3 Gb IDE Samsung  <S
+522
+3462# HDD 6.4 Gb IDE Quantum Fir
+523
+3488# HDD 8.4 Gb IDE Seagate Med
+524
+3492# HDD 10.2 Gb IDE Fujitsu  <
+525
+3493# HDD 18.2 Gb Ultra2 SCSI Se
+526
+3509# HDD 9.1 Gb IDE Western Dig
+527
+3518# HDD 10.2 Gb IDE Seagate Me
+528
+3591# HDD 9.1 Gb Ultra2 SCSI Wes
+529
+3605# HDD 13.0 Gb IDE Quantum Fi
+530
+3679# HDD 9.1 Gb Ultra2 SCSI Sea
+531
+3750# HDD 10.8 Gb IDE Fujitsu  <
+532
+3751# HDD 17.3 Gb IDE Fujitsu  <
+533
+3804# HDD 13.0 Gb IDE Fujitsu  <
+534
+3811# HDD 2.1 Gb IDE Samsung  <S
+535
+3875# HDD 18.2 Gb Wide Ultra SCS
+536
+3876# HDD 9.1 Gb Wide Ultra SCSI
+537
+3897# HDD 5.1 Gb IDE Quantum Fir
+538
+3945# HDD 36.4 Gb Wide Ultra SCS
+539
+3986# HDD 13.6 Gb IDE Quantum Fi
+540
+4061# HDD 4.5 Gb SCSI Seagate Me
+541
+4062# HDD 9.1 Gb Ultra2 SCSI Sea
+542
+4090# HDD 9.1 Gb Ultra2 SCSI Sea
+543
+4102# HDD 5.1 Gb SCSI Seagate Ba
+544
+4106# HDD 9.1 Gb IDE Quantum Fir
+545
+4110# HDD 4.3 Gb IDE Seagate  <3
+546
+4118# HDD 6.4 Gb IDE Seagate Med
+547
+4159# HDD 13.6 Gb IDE Seagate Me
+548
+4293# HDD 4.5 Gb Ultra2 SCSI Sea
+549
+4306# HDD 6.4 Gb IDE Quantum Fir
+550
+4316# HDD 18.2 Gb Ultra2 SCSI Se
+551
+4334# HDD 50 Gb Ultra2 SCSI Seag
+552
+4369# HDD 13 Gb IDE Seagate Meda
+553
+4373# HDD 10.2 Gb IDE Quantum Fi
+554
+4374# HDD 20.4 Gb IDE Quantum Fi
+555
+4389# Мобильное шасси для HDD 3.
+556
+4409# HDD 6.4 Gb IDE Quantum Fir
+557
+4512# HDD 10.2 Gb IDE Western Di
+558
+4517# HDD 13.0 Gb IDE Quantum Fi
+559
+4546# HDD 1.1 Gb IDE Quantum Fir
+560
+4547# HDD 1.7 Gb IDE Quantum Fir
+561
+4548# HDD 2.1 Gb IDE Quantum Fir
+562
+4549# HDD 2.5 Gb IDE Quantum Fir
+563
+4550# HDD 3.2 Gb IDE Quantum Fir
+564
+4551# HDD 3.8 Gb IDE Quantum Fir
+565
+4594# HDD 3.2 Gb SCSI Quantum Fi
+566
+4613# HDD 18.2 Gb IDE Quantum Fi
+567
+4614# HDD 9.1 Gb U160SCSI Quantu
+568
+4670# HDD 13.6/13.5 Gb IDE Weste
+569
+4694# HDD 20.5 Gb IDE Western Di
+570
+4709# HDD 17.2 Gb IDE Seagate Me
+571
+4750# HDD 6.4 Gb IDE Fujitsu  <M
+572
+4768# HDD 13.6/13.5 Gb IDE Weste
+573
+4774# HDD 10.2 Gb IDE Western Di
+574
+4775# HDD 27.3 Gb IDE Western Di
+575
+4785# HDD 9.1 Gb Ultra2 SCSI Sea
+576
+4801# HDD 20.4 Gb IDE Seagate Ba
+577
+4906# HDD 28.5 Gb IDE Seagate Ba
+578
+4918# HDD 13.6 Gb IDE Fujitsu  <
+579
+4919# HDD 17.0 Gb IDE Fujitsu  <
+580
+4920# HDD 20.4 Gb IDE Fujitsu  <
+581
+4921# HDD 4.3 Gb IDE Maxtor Diam
+582
+4935# HDD 6.5 Gb IDE Maxtor Diam
+583
+4947# HDD 13.6 Gb IDE Maxtor Dia
+584
+4978# HDD 10.2 Gb IDE Fujitsu  <
+585
+4979# HDD 27.3 Gb IDE Fujitsu  <
+586
+4991# HDD 4.3 Gb IDE Fujitsu  <M
+587
+5004# HDD 8.7 Gb IDE Maxtor Diam
+588
+5022# HDD 6.8 Gb IDE Western Dig
+589
+5065# HDD 13.6 Gb IDE Quantum Fi
+590
+5108# HDD 4.3 Gb IDE Maxtor Diam
+591
+5109# HDD 10.2 Gb IDE Maxtor Dia
+592
+5115# HDD 20.5 Gb IDE Quantum Fi
+593
+5116# HDD 26 Gb IDE Quantum Fire
+594
+5119# HDD 6.4 Gb IDE Western Dig
+595
+5120# HDD 8.4 Gb IDE Western Dig
+596
+5150# HDD 4.3 Gb IDE Quantum Fir
+597
+5159# HDD 8.4 Gb IDE Fujitsu  <M
+598
+5196# HDD 13.0 Gb IDE Quantum Fi
+599
+5218# HDD 20.4 Gb IDE Fujitsu  <
+600
+5227# HDD 8.4 Gb IDE Quantum Fir
+601
+536# CD-R 650Mb
+602
+537# CD-R   650Mb уп.100 шт. (te
+603
+550# CD-RW   650Mb
+604
+986# Дискета 35 144 Mb EMTEC BAS
+605
+989# Дискета 35 144 Mb Sony уп 1
+606
+993# Дискета 35 144 Mb TDK уп 10
+607
+994# Дискета 35 144 Mb Verbatim 
+608
+995# Дискета 3, 5" 1, 44 Mb Verb
+609
+996# Дискета 35 144 Mb Verbatim 
+610
+997# Дискета 35 144 Mb Verbatim 
+611
+1514# Jaz Disk I Omega 1 Gb
+612
+1515# Jaz Disk I Omega  <2 Gb> 
+613
+1519# Zip Disk 100 Mb
+614
+1641# LS120 Disk 120 Mb
+615
+3573# Zip Disk 250 Mb
+616
+3884# Дискета 3, 5" 1, 44 Mb Ver
+617
+3919# Дискета 3, 5" 1, 44 Mb TDK
+618
+4092# CD-R   650Mb  <уп.50 шт.> 
+619
+4830# Дискета 3, 5" 1, 44 Mb EMT
+620
+218# Add-on card Yamaha DB-50XG 
+621
+219# Add-on card Yamaha SW-60XG 
+622
+2553# SB ISA ESS1688 FM Radio
+623
+2555# SB ISA ESS1869 FM Radio
+624
+2556# SB PCI Diamond Sonic Impac
+625
+2559# SB PCI             <Vortex
+626
+2560# SB PCI             <ESS So
+627
+2561# SB PCI             <Maestr
+628
+2562# SB PCI S3 Schubert Sonic V
+629
+2565# SB ISA Schubert Binaura 3D
+630
+2567# SB ISA ESS 1869
+631
+2568# SB ISA              <ESS 1
+632
+2569# SB ISA ALS 100
+633
+2570# SB ISA AZTECH Sound Galaxy
+634
+2572# SB ISA T2 LAB Wave 128/C3D
+635
+2575# SB ISA Eline         <Yama
+636
+2577# SB ISA Genius SoundMaker 3
+637
+2578# SB PCI Genius SoundMaker 1
+638
+2581# SB ISA Eline  <ALS-120>  3
+639
+2584# SB ISA Sound Vision 16 GOL
+640
+2588# SB PCI             <Yamaha
+641
+2589# SB ISA               <Yama
+642
+2590# SB ISA               <Yama
+643
+2593# SB Turtle Beach Montego II
+644
+2594# SB Turtle Beach Montego A3
+645
+2595# SB Turtle Beach Montego A3
+646
+2597# SB Turtle Beach Multisound
+647
+2599# SB Turtle Beach Multisound
+648
+2606# SB Creative Sound Blaster 
+649
+2608# SB Creative VIBRA 16 PnP C
+650
+2613# SB Creative PCI128 3D PCI 
+651
+2614# SB Creative PCI128 3D PCI 
+652
+2615# SB Creative AWE 32 CT36xx 
+653
+2616# SB Creative AWE 32 CT3930
+654
+2618# SB Creative AWE 32 CT39903
+655
+2619# SB Creative  AWE 32 CT-276
+656
+2620# SB Creative AWE 32 CT3980 
+657
+2621# SB Creative AWE 32 Value C
+658
+2622# SB Creative  AWE 32 Value 
+659
+2623# SB Creative Ensoniq 3D PCI
+660
+2626# SB Creative Value Edition 
+661
+2628# SB Creative AWE 64 Gold RT
+662
+2630# SB Creative Value Edition 
+663
+2631# SB Creative PCI128 3D PCI 
+664
+2632# SB Creative Live 3D PCI CT
+665
+2633# SB Creative Live Value 3D 
+666
+2634# SB Creative Live Value 3D 
+667
+2635# SB Creative Sonate  CT-297
+668
+2636# SB Creative VIBRA 16 PnP C
+669
+2637# SB Creative VIBRA 16 FM Ra
+670
+2640# SB PCI Diamond Monster Sou
+671
+2641# SB PCI Diamond Monster Sou
+672
+2644# SB PCI Ensoniq 3D ES1370
+673
+2656# SB ISA MaxiSound Home Stud
+674
+2659# SB PCI Eline         <Yama
+675
+2660# SB PCI             <Maestr
+676
+2661# SB PCI             <Maestr
+677
+2662# SB PCI             <Triden
+678
+2675# Controller Tekram DC310 RT
+679
+2694# SF  FM Aims Radiotrack (RT
+680
+2966# Upgrade Module 4Mb WRAM дл
+681
+3225# SB ISA              <ALS-1
+682
+3287# SB PCI Eline         <Solo
+683
+3323# Digital I/O Card for Turtl
+684
+3585# SB Creative PCI512 3D PCI 
+685
+3587# SB PCI Genius SoundMaker 3
+686
+3687# SB PCI Audio MIDI card Yam
+687
+3890# SB Creative VIBRA 128  PCI
+688
+3993# Wavetable Daughter Board T
+689
+4133# SB Turtle Beach Montego II
+690
+4366# SB ISA              <Cryst
+691
+4439# SB Creative VIBRA 128  PCI
+692
+4538# SB PCI Genius SoundMaker 1
+693
+4539# SB PCI Genius SoundMaker L
+694
+4576# SB PCI Quad X-treme 256R+F
+695
+4608# SB Creative  AWE 64 Gold (
+696
+4712# SB Creative Live! Player 1
+697
+4922# UpGrade Module 24Mb Waveta
+698
+1561# Клра Clicker 21KPR Ergo 10
+699
+1562# Клра Clicker 21KPR Ergo PS
+700
+1563# Клра Cherry G836xxx 104КЛ
+701
+1564# Клра Cherry G836xxx PS2 10
+702
+1568# Кл-ра Clicker 21G(M)  <PS/
+703
+1569# Кл-ра Clicker F-21D 104КЛ
+704
+1570# Кл-ра Clicker F-21D  <PS/2
+705
+1572# Кл-ра типа KB x001  <PS/2>
+706
+1575# Клра типа KB x001 DIN 104К
+707
+1578# Кл-ра CHICONY 7903 Ergo SM
+708
+1579# Клра CHICONY KTP 7903 Ergo
+709
+1580# Клра MITSUMI DIN 104КЛ
+710
+1581# Клра MITSUMI PS2 104КЛ
+711
+1582# Кл-ра Eagle MCK-600W (Cher
+712
+1583# Клра Clicker 21KR Ergo 105
+713
+1584# Клра Clicker 21KR Ergo PS2
+714
+1585# Кл-ра Clicker 21JR(WK) Sho
+715
+1586# Кл-ра Clicker 21JR(WK)  <P
+716
+1588# Кл-ра Turbo 1001 Ergo 105К
+717
+1589# Кл-ра Turbo 1001 Ergo  <PS
+718
+1592# Кл-ра Clicker 21YR(SPK-200
+719
+1594# Кл-ра Clicker 21YR(SPK-200
+720
+1598# Клра Clicker F21JXXQ 105КЛ
+721
+1599# Клра Clicker F21JXXQSQ PS2
+722
+3220# Кл-ра Datacom KWD-203 104К
+723
+3275# Кл-ра SK-2501 105КЛ+12КЛ М
+724
+3276# Кл-ра SK-7100 89КЛ+14КЛ М/
+725
+3938# Кл-ра MITSUMI Ergo  <DIN> 
+726
+3939# Кл-ра MITSUMI Ergo  <PS/2>
+727
+4418# Кл-ра Cherry  <PS/2>  104К
+728
+4638# Кл-ра KB 9021  <USB>  108К
+729
+4639# Кл-ра KC 7001E Turbo X*fer
+730
+5006# Кл-ра Clicker F-21RHM  <PS
+731
+5008# Кл-ра Clicker F-21VQ  <PS/
+732
+5010# Кл-ра Clicker F-21VQ-IR М/
+733
+5011# Кл-ра Clicker F-21VQ-IR <P
+734
+2741# Колонки J888 22W
+735
+2743# Колонки Advance JC360 18W
+736
+2744# Колонки Advance JC380 24W
+737
+2745# Колонки Advance JC610 30W
+738
+2748# Колонки Genius SP-715 (16W
+739
+2749# Колонки Genius SP718 54W
+740
+2750# Колонки GreenWave L-60 (G2
+741
+2753# Колонки J511 28W
+742
+2754# Колонки J530 28W
+743
+2756# Колонки Jazz Speakers J707
+744
+2758# Колонки J312 16W
+745
+2762# Колонки 301ML Arowana Soun
+746
+2763# Колонки Arowana 690 14W
+747
+2764# Колонки типа 210 691 10W
+748
+2765# Колонки 699MLI (14W)
+749
+2766# Колонки Samsung SMS100D 30
+750
+2768# Колонки Samsung SMS-5100 (
+751
+2769# Колонки Samsung SMS-8320 (
+752
+2770# Колонки SONY CSSB100 5W бе
+753
+2775# Колонки SP-80 (8W)
+754
+2776# Колонки CSP-601A  (6 W)
+755
+2782# Колонки Genius SP-306/A (6
+756
+2783# Колонки Genius SP303 6W
+757
+2787# Колонки Genius SP330 16W
+758
+2797# Колонки Eline L-322 Lite (
+759
+2798# Колонки Eline L-331 (7W)
+760
+2799# Колонки Eline L-522 (18W)
+761
+2800# Колонки Eline MS-120 (2x11
+762
+2801# Колонки Genius SP-710/A (1
+763
+2802# Колонки Genius SP-G06 (6W)
+764
+2803# Колонки Genius SP-G10 (10W
+765
+2804# Колонки Genius SP-G16 (16W
+766
+2805# Колонки Genius SW-103 (2x3
+767
+2806# Колонки Genius SW-G106 (2x
+768
+2809# Колонки пассивные
+769
+2811# Subwoofer Yamaha YST-MSW5 
+770
+2812# Колонки Yamaha YSTM15 20W
+771
+2813# Колонки Yamaha YST-M20 DSP
+772
+2814# Колонки Yamaha YSTM7 10W
+773
+2815# Колонки Yamaha YSTMS25 25W
+774
+3297# Колонки Arowana 693 (10W)
+775
+3850# Колонки Samsung SMS-7841 (
+776
+3851# Колонки Samsung SMS-6110 (
+777
+3852# Колонки Samsung SMS-9000 (
+778
+3960# Колонки Genius SP-M06 (4W)
+779
+3961# Колонки Genius SP-M10 (6.4
+780
+4203# Колонки Genius SW-M108 (2x
+781
+4204# Колонки Genius SP-M16 (14W
+782
+4505# Колонки Genius SW-4.1 Surr
+783
+4645# Колонки Samsung SMS-7631 (
+784
+4646# Колонки Samsung FS-2822BA 
+785
+4973# Колонки Genius SP-205B
+786
+5013# Колонки SONY SRS-PC 15 (3W
+787
+5070# Колонки Samsung SMS-6100 (
+788
+1488# Controller Tekram 690cd PC
+789
+2676# Controller Tekram DC310U R
+790
+2677# Controller Tekram DC 390 R
+791
+2678# Controller Tekram DC390U R
+792
+2680# Controller Adaptec AHA 294
+793
+2681# Controller Adaptec 2940AU 
+794
+2682# Controller Adaptec AHA 294
+795
+2692# Controller Tekram DC-390U2
+796
+3173# Controller Tekram DC390F R
+797
+3265# Controller Adaptec AHA 294
+798
+3507# Controller Tekram DC-315U 
+799
+3508# Controller Tekram DC-390U2
+800
+3816# Controller Adaptec AHA 293
+801
+3817# Controller Adaptec AVA 290
+802
+3818# Controller Adaptec AVA 290
+803
+4240# Controller Adaptec AHA 294
+804
+4241# Controller Tekram DC-395UW
+805
+4492# Controller ASUSTeK (Promis
+806
+4762# Controller Adaptec AVA 290
+807
+5042# Controller Adaptec AVA 290
+808
+5158# Controller ASUSTeK PCI -SI
+809
+358# Bigtower KT-20
+810
+360# Bigtower мод. 306     ATX  
+811
+369# Bigtower LP-307
+812
+370# Bigtower INWIN Q500/700  AT
+813
+528# Блок питания 230 W в корпус
+814
+529# Блок питания 200 W в корпус
+815
+530# Блок питания 230 W в корпус
+816
+932# DeskTop D217C-02 ATX  (20пи
+817
+933# DeskTop D907C-02/x20 ATX  (
+818
+934# DeskTop MMedia LV7000
+819
+935# Desktop D707C ATX  (20пин)
+820
+936# DeskTop мод 3201 ATX
+821
+941# DeskTop INWIN H500/600/700/
+822
+1645# Minitower M1
+823
+1646# Minitower M2
+824
+1647# Minitower M7
+825
+1649# Minitower M8
+826
+1979# Miditower  мод. 235    ATX
+827
+1982# Miditower  мод. 3415  ATX 
+828
+1983# Miditower мод 5365156 ATX 
+829
+1985# Miditower  мод.  ATX-38  E
+830
+1986# Miditower мод3401 ATX 250W
+831
+1989# Miditower INWIN A500660700
+832
+1992# Miditower D608C  ATX  250W
+833
+1993# Miditower D708C  ATX 250W 
+834
+1994# Miditower D908C ATX  (20пи
+835
+1995# Miditower Diamond DM-911  
+836
+1996# Bigtower мод. EN-7230/ I-3
+837
+1998# Miditower  мод. SL-570   A
+838
+1999# Miditower  мод.  ATX-98/3 
+839
+2001# Miditower  мод. LW 213  AT
+840
+2002# Miditower LP-306
+841
+2014# Minitower мод. xxx 230W
+842
+2015# Minitower мод 103 230 W
+843
+2017# Minitower 191 B с подставк
+844
+2020# Minitower мод 6061
+845
+2021# Minitower 669/639 D Energy
+846
+2025# Minitower мод 750A ATX 235
+847
+2028# Minitower CDI-D    250W
+848
+2031# Minitower мод. D803A-02
+849
+2036# Minitower 516 5131 100DR 7
+850
+2039# Minitower 757767 828 84895
+851
+2040# Minitower  757D / 8xxD  23
+852
+2045# Minitower мод. 211
+853
+2046# Minitower  мод. 2303  ATX 
+854
+2047# Minitower  мод. 2306  ATX 
+855
+2048# Minitower  мод. 2315  ATX 
+856
+2049# Minitower  мод. 2316  ATX 
+857
+2050# Minitower мод. 2322/2323
+858
+2052# Minitower LP305
+859
+2054# Miditower  мод. < <3402> >
+860
+2055# Minimiditower D218C-02   A
+861
+2056# Minimiditower MDT-310F/CX-
+862
+2058# Minitower мод. 1811/191
+863
+3229# Minitower мод. 2312/ 2386
+864
+3277# Miditower  мод. MS-1406B A
+865
+3344# Miditower  мод. 828  ATX  
+866
+3584# DeskTop Baby MS-706 (Black
+867
+3797# Minitower  мод. 2307  ATX 
+868
+3874# Miditower  мод. 3403  ATX 
+869
+3943# Miditower  мод. 625(615x)/
+870
+4018# Bigtower мод. TK-736  235W
+871
+4095# Miditower D518C с дверцей 
+872
+4096# Miditower D719C  ATX  (20п
+873
+4127# Miditower W-SPS  ATX
+874
+4179# Minimiditower мод. 225/055
+875
+4199# Miditower  мод. 9x9 econom
+876
+4200# Minitower  мод. 797/858 ec
+877
+4287# Miditower INWIN S500/506/5
+878
+4381# Bigtower мод. 503        A
+879
+4382# Bigtower мод. 668        A
+880
+4405# Miditower  мод. 718   ATX 
+881
+4425# Miditower  мод. 3377  ATX 
+882
+4453# Minimiditower мод. 218 ATX
+883
+4490# Bigtower мод. 546/5162  AT
+884
+4555# Minitower мод. L701
+885
+4566# Miditower  мод. MDT-636/CX
+886
+4572# Miditower  мод. 8702 ATX  
+887
+4573# Minitower мод. 878/858 (с 
+888
+4815# GC-9BA Genius Venus (Midit
+889
+4895# Miditower Feel 808 Gold  A
+890
+4896# Miditower Feel 808 Ivory  
+891
+4897# Miditower Feel Next 909 Go
+892
+4898# Miditower Feel Next 909 Iv
+893
+4899# Miditower Feel Power 2000 
+894
+4989# Miditower Feel 707 Gold  A
+895
+1655# MB ASUSTeK P2L97 Slot1 440
+896
+1666# M/B ASUSTeK P2B   Slot1  <
+897
+1667# M/B ASUSTeK P2B-B   Slot1 
+898
+1668# M/B ASUSTeK P2B-F   Slot1 
+899
+1669# M/B ASUSTeK P2B-L   Slot1 
+900
+1670# M/B ASUSTeK P2B-LS   Slot1
+901
+1671# M/B ASUSTeK P2E-B   Slot1 
+902
+1672# M/B ASUSTeK P2E-M/A   Slot
+903
+1673# MB ASUSTeK P2L97S Slot1 44
+904
+1674# M/B ASUSTeK P2L-M/A   Slot
+905
+1675# M/B ASUSTeK P2V   Slot1  <
+906
+1678# M/B ASUSTeK P2L-B   Slot1 
+907
+1681# M/B ASUSTeK P2B98-XV   Slo
+908
+1682# M/B ASUSTeK P2B-D   Dual S
+909
+1683# M/B ASUSTeK P2B-DS   Dual 
+910
+1750# MB ZIDA STX Socket7 TX512 
+911
+1755# MB ASUSTeK TVP4 Socket7 VX
+912
+1771# MB ATrend ATC5000 5030TX43
+913
+1772# MB ATrend ATC5020 Socket7 
+914
+1785# MB FIC VT501 Socket7 VX256
+915
+1789# MB ABIT AX5 Socket7 TX512 
+916
+1798# M/B ASUSTeK P5A   Socket7 
+917
+1799# M/B ASUSTeK P5A-B   Socket
+918
+1800# M/B ASUSTeK P5A-B/A   Sock
+919
+1804# MB ASUSTeK T2P4 Socket7 HX
+920
+1809# M/B ASUSTeK TX-97-L   Sock
+921
+1811# MB ASUSTeK TX97XE Socket7 
+922
+1813# M/B ASUSTeK TX-97-XA   Soc
+923
+1814# MB ASUSTeK TXP4 Socket7 TX
+924
+1815# MB ASUSTeK PTXP4X Socket7 
+925
+1817# M/B ASUSTeK VX97 Socket7 2
+926
+1860# MB GigaByte GA586ATX2 Sock
+927
+1863# MB GigaByte GA586STX Socke
+928
+1897# MB Tekram P5T30A4 Socket7 
+929
+1940# MB ASUSTeK TX97E Socket7 T
+930
+1942# M/B ASUSTeK MEL-B   Socket
+931
+1943# M/B ASUSTeK MEL-C   Socket
+932
+1944# M/B ASUSTeK MEL-M/A   Sock
+933
+1945# M/B ASUSTeK MEL-M   Socket
+934
+1956# M/B ASUSTeK P2B-S   Slot1 
+935
+1957# M/B ASUSTeK P2L97-A Slot1 
+936
+1970# M/B INTEL 443ZX66   Socket
+937
+2082# Преобразователь напряжения
+938
+3208# M/B ASUSTeK P2B   Slot1  <
+939
+3328# M/B ASUSTeK MEB-M   Socket
+940
+3345# M/B ASUSTeK P2Z-B   Slot1 
+941
+3359# M/B ABIT AB-BH6   Slot1  <
+942
+3360# M/B ABIT AB-BX6   Slot1  <
+943
+3361# M/B ABIT BX-20   Slot1  <4
+944
+3392# M/B ASUSTeK P2Z   Slot1  <
+945
+3487# M/B ASUSTeK P5A-A   Socket
+946
+3489# M/B ASUSTeK P2V-B   Slot1 
+947
+3728# M/B GigaByte GA-6LA7   Soc
+948
+3793# M/B INTEL SE440BX   Slot1 
+949
+3800# ASUSTeK P2T-Cable Thermal 
+950
+3819# M/B ASUSTeK P2-99   Slot1 
+951
+3820# M/B ASUSTeK MEB   Socket37
+952
+3821# M/B ASUSTeK MEZ   Socket37
+953
+3872# M/B ASUSTeK P2-99B   Slot1
+954
+3908# M/B INTEL MU440EX   Slot1 
+955
+3981# M/B ASUSTeK MES-B   Socket
+956
+3985# M/B ASUSTeK MEW   Socket37
+957
+4008# M/B GigaByte GA-6VA7   Soc
+958
+4009# M/B GigaByte GA-6BA   Slot
+959
+4010# M/B GigaByte GA-BX2000   S
+960
+4011# M/B GigaByte GA-6BXC   Slo
+961
+4015# M/B GigaByte GA-6VA   Slot
+962
+4016# M/B GigaByte GA-6VX   Slot
+963
+4017# M/B GigaByte GA-5AA   Sock
+964
+4182# M/B ASUSTeK P3B-F   Slot1 
+965
+4192# M/B ASUSTeK ME-99   Socket
+966
+4193# M/B ASUSTeK ME-99B   Socke
+967
+4214# M/B ASUSTeK XG-DLS   Dual 
+968
+4215# M/B ASUSTeK MEZ-M   Socket
+969
+4224# M/B ABIT AB-ZM6   Socket37
+970
+4255# M/B GigaByte GA-6EMMP   Sl
+971
+4400# M/B INTEL CA810A   Socket3
+972
+4447# M/B ASUSTeK P5S-B   Socket
+973
+4610# M/B ABIT AB-BE6   Slot1  <
+974
+4611# M/B ABIT AB-BM6   Socket37
+975
+4616# M/B GigaByte GA-6WMM7   So
+976
+4642# M/B ASUSTeK MEL-C/A   Sock
+977
+4671# M/B ASUSTeK MEW-L   Socket
+978
+4802# M/B ASUSTeK MEW-B   Socket
+979
+4877# M/B GigaByte GA-6VXE   Slo
+980
+4891# M/B ASUSTeK P2L-B   Slot1 
+981
+5014# M/B ASUSTeK P3B-1394/A   S
+982
+5027# M/B ASUSTeK MEW-L   Socket
+983
+5031# M/B ASUSTeK P2L97   Slot1 
+984
+5053# M/B ASUSTeK P3B-F   Slot1 
+985
+5062# M/B GigaByte GA-6WMMC7-1  
+986
+5063# M/B GigaByte GA-6WMMC7   S
+987
+5106# M/B GigaByte GA-7IX   Slot
+988
+5110# M/B GigaByte GA-6WXM   Slo
+989
+5222# M/B ABIT AB-BF6   Slot1  <
+990
+30# 14.5" MONITOR Viewsonic VPA1
+991
+33# 14 MONITOR 028 CTX VL400 145
+992
+36# 14 MONITOR 028 DAEWOO 1427X
+993
+37# 14" MONITOR 0.28 Forefront T
+994
+39# 14 MONITOR 028 LG Studiowork
+995
+40# 14 MONITOR 028 LG Studiowork
+996
+41# 14" MONITOR 0.28 LG Studiowo
+997
+43# 14" MONITOR 0.28 IBM G40
+998
+51# 14 MONITOR 028 Samsung 400B 
+999
+52# 14" MONITOR 0.28 Samsung 410
+1000
+53# 14" MONITOR 0.28 Samsung Sam
+1001
+61# 14" MONITOR 0.28 UTT XDM-205
+1002
+63# 15 MONITOR 028 Samsung 550B5
+1003
+64# 15 MONITOR 028 Samsung 500MB
+1004
+71# 15" MONITOR 0.28 Samsung 510
+1005
+72# 15" MONITOR 0.28 Samsung 510
+1006
+74# 15" MONITOR 0.28 Samsung 500
+1007
+75# 15"    MONITOR Viewsonic VPA
+1008
+76# 15" MONITOR 0.28 Acana 1510 
+1009
+78# 15" MONITOR 0.28 COMPAQ EV50
+1010
+79# 15" MONITOR 0.28 CTX 1569- <
+1011
+81# 15" MONITOR 0.28 CTX VL500 (
+1012
+82# 15" MONITOR 0.25 CTX PR500 (
+1013
+84# 15" MONITOR 0.28 DAEWOO CMC-
+1014
+85# 15" MONITOR 0.28 DAEWOO 1511
+1015
+86# 15" MONITOR 0.28 DAEWOO 518B
+1016
+87# 15" MONITOR 0.28 Funai 1570W
+1017
+88# 15" MONITOR 0.28 LG Studiowo
+1018
+93# 15 MONITOR 028 LG Studiowork
+1019
+95# 15" MONITOR 0.28 LG Studiowo
+1020
+96# 15" MONITOR 0.28 LG Studiowo
+1021
+102# 15" MONITOR 0.28 Samsung Sa
+1022
+106# 15 MONITOR 028 Samsung Sync
+1023
+110# 15 MONITOR 025 SONY 15SFII 
+1024
+113# 15" MONITOR 0.25 SONY 100ES
+1025
+114# 15" MONITOR 0.25 SONY 100  
+1026
+115# 15" MONITOR 0.25 SONY 100GS
+1027
+116# 15" MONITOR 0.25 SONY 120 A
+1028
+120# 15"    MONITOR Viewsonic VP
+1029
+122# 17 MONITOR 028 Samsung 700M
+1030
+123# 17 MONITOR 026 Samsung 700M
+1031
+124# 17 MONITOR 028 Samsung 700M
+1032
+125# 17 MONITOR 026 Samsung 750P
+1033
+126# 17" MONITOR 0.26 Samsung 70
+1034
+127# 17 MONITOR 028 Samsung 700S
+1035
+128# 17" MONITOR 0.28 Samsung 70
+1036
+130# 17" MONITOR 0.28 Samsung 71
+1037
+131# 17" MONITOR 0.25 CTX PR700 
+1038
+133# 17" MONITOR 0.26 CTX VL710S
+1039
+137# 17" MONITOR 0.28 LG Studiow
+1040
+138# 17" MONITOR 0.26 LG Studiow
+1041
+139# 17" MONITOR 0.25 LG Studiow
+1042
+140# 17" MONITOR 0.24 LG Flatron
+1043
+141# 17 MONITOR 026 LG Studiowor
+1044
+144# 17" MONITOR 0.28 LG Studiow
+1045
+147# 19" MONITOR 0.26 Samsung 90
+1046
+157# 17" MONITOR 0.25 SONY 200ES
+1047
+158# 17" MONITOR 0.25 SONY 200GS
+1048
+159# 17 MONITOR 025 SONY 200 PST
+1049
+160# 17" MONITOR 0.25 SONY 220 A
+1050
+161# 19" MONITOR 0.26 CTX VL950T
+1051
+164# 19" MONITOR 0.26 LG Studiow
+1052
+165# 19" MONITOR 0.25 SONY 400  
+1053
+166# 19" MONITOR 0.25 SONY 420GS
+1054
+169# 20 MONITOR 028 LG Studiowor
+1055
+174# 21" MONITOR 0.25 SONY 500 P
+1056
+175# 21" MONITOR 0.25 SONY 520GS
+1057
+176# 21" MONITOR 0.28 LG Studiow
+1058
+181# 21 MONITOR 026 Samsung 1000
+1059
+184# 24 MONITOR 025 SONY W900
+1060
+2226# 17 MONITOR 024 Panasonic P
+1061
+2304# 17" MONITOR 0.27 Panasonic
+1062
+2309# 17 MONITOR 027 Panasonic T
+1063
+2310# 21" MONITOR 0.25 Panasonic
+1064
+2314# 17 MONITOR 027 Panasonic S
+1065
+2315# 17" MONITOR 0.27 Panasonic
+1066
+2316# 17" MONITOR 0.27 Panasonic
+1067
+2317# 17" MONITOR 0.25 Panasonic
+1068
+2318# 17" MONITOR 0.27 Panasonic
+1069
+2319# 17" MONITOR 0.25 Panasonic
+1070
+2320# 19" MONITOR 0.25 Panasonic
+1071
+2321# 15" MONITOR 0.27 Panasonic
+1072
+2322# 15" MONITOR 0.27 Panasonic
+1073
+2323# 15" MONITOR 0.27 Panasonic
+1074
+3116# 17 MONITOR 027 ViewSonic E
+1075
+3119# 17" MONITOR 0.27 ViewSonic
+1076
+3120# 17" MONITOR 0.27 ViewSonic
+1077
+3123# 14 MONITOR 028 ViewSonic E
+1078
+3124# 14 MONITOR 028 ViewSonic Q
+1079
+3127# 15 MONITOR 028 ViewSonic E
+1080
+3129# 15" MONITOR 0.28 ViewSonic
+1081
+3130# 15 MONITOR 028 ViewSonic V
+1082
+3132# 15 MONITOR 028 ViewSonic G
+1083
+3134# 15" MONITOR 0.27 ViewSonic
+1084
+3137# 15" MONITOR 0.27 ViewSonic
+1085
+3138# 15" MONITOR 0.28 ViewSonic
+1086
+3139# 17 MONITOR 028 ViewSonic Q
+1087
+3140# 17 MONITOR 026 ViewSonic V
+1088
+3141# 17 MONITOR 026 ViewSonic V
+1089
+3145# 17 MONITOR 025 ViewSonic G
+1090
+3146#  17" MONITOR 0.25 ViewSoni
+1091
+3148# 17" MONITOR 0.25 ViewSonic
+1092
+3150# 17 MONITOR 025 ViewSonic P
+1093
+3152# 19" MONITOR 0.26 ViewSonic
+1094
+3153# 19" MONITOR 0.25 ViewSonic
+1095
+3154# 19 MONITOR 026 ViewSonic V
+1096
+3161# 21 MONITOR 026 ViewSonic V
+1097
+3165# 21 MONITOR 025 ViewSonic P
+1098
+3166# 21 MONITOR 025 ViewSonic P
+1099
+3169# 21 MONITOR 028 ViewSonic P
+1100
+3231# 19" MONITOR 0.25 ViewSonic
+1101
+3236# 17" MONITOR 0.25 CTX PR711
+1102
+3256# 17" MONITOR 0.24 Samsung S
+1103
+3264# 15" MONITOR 0.28 Microvisi
+1104
+3282# 15&quot; MONITOR 0.28 JEAN
+1105
+3327# 15" MONITOR 0.28 Funai Hig
+1106
+3336# 17" MONITOR 0.27 Panasonic
+1107
+3368# 15" MONITOR 0.28 Bridge BM
+1108
+3369# 17" MONITOR 0.28 Bridge BM
+1109
+3373# 17" MONITOR 0.27 COMPAQ EV
+1110
+3458# 17" MONITOR 0.28 Samsung S
+1111
+3461# 15" MONITOR 0.28 Bridge BM
+1112
+3471# 17" MONITOR 0.26 Samsung 7
+1113
+3511# 15" MONITOR 0.28 Samsung S
+1114
+3512# 17" MONITOR 0.28 Bridge BM
+1115
+3572# 15" MONITOR 0.28 Samsung 5
+1116
+3594# 17" MONITOR 0.24 LG Flatro
+1117
+3596# 14" MONITOR 0.28 DAYTEK DT
+1118
+3599# 15" MONITOR 0.25 SONY 110E
+1119
+3732# 15" MONITOR 0.28 DAEWOO 51
+1120
+3823# 19" MONITOR 0.25 Samsung 9
+1121
+3866# 17" MONITOR 0.28 LG Studio
+1122
+3869# 14" MONITOR 0.28 DAEWOO 43
+1123
+3883# 15" MONITOR 0.28 BenQ(Acer
+1124
+3893# 15"    MONITOR Viewsonic V
+1125
+3914# 15" MONITOR 0.28 LG Studio
+1126
+3936# 21" MONITOR 0.22 SONY GDM-
+1127
+3958# 15" MONITOR 0.28 TVM AS5S
+1128
+4025# 17" MONITOR 0.27 Samsung 7
+1129
+4069# 17" MONITOR 0.28 Bridge BM
+1130
+4085# 15" MONITOR 0.28 Techmedia
+1131
+4088# 18.1" MONITOR Viewsonic VG
+1132
+4107# 15" MONITOR 0.28 CTX PL5A/
+1133
+4194# 15" MONITOR 0.25 SONY 100G
+1134
+4207# 14" MONITOR 0.28 Compal M4
+1135
+4237# 17" MONITOR 0.28 Techmedia
+1136
+4246# 15" MONITOR 0.27 Panasonic
+1137
+4337# 15&quot; MONITOR 0.28 Sams
+1138
+4339# 15&quot; MONITOR 0.28 Sams
+1139
+4380# 14" MONITOR 0.28 ViewSonic
+1140
+4444# 19&quot; MONITOR 0.26 CTX 
+1141
+4450# 14&quot; MONITOR 0.28 Sams
+1142
+4452# 17&quot; MONITOR 0.24 View
+1143
+4462# 17" MONITOR 0.26 Samsung 7
+1144
+4471# 15" MONITOR 0.28 DAEWOO DT
+1145
+4486# 17" MONITOR 0.27 BenQ(Acer
+1146
+4487# 17" MONITOR 0.27 LG Studio
+1147
+4496# 17" MONITOR 0.27 ViewSonic
+1148
+4543# 15" MONITOR 0.28 ViewSonic
+1149
+4553# 14" MONITOR 0.28 TVM AS4Dp
+1150
+4574# 15" MONITOR 0.28 LG Studio
+1151
+4743# 14" MONITOR 0.28 DAYTEK Va
+1152
+4748# 17" MONITOR 0.28 CTX VL700
+1153
+4777# 17" MONITOR 0.25 SONY G200
+1154
+4790# 17" MONITOR 0.27 Panasonic
+1155
+4823# 19" MONITOR 0.26 ViewSonic
+1156
+4844# 15&quot; MONITOR 0.28 DAEW
+1157
+4856# 14" MONITOR 0.28 Target AM
+1158
+4857# 15" MONITOR 0.28 Target AM
+1159
+4885# 15" MONITOR 0.28 Samsung S
+1160
+4942# 15" MONITOR 0.28 NOKIA 449
+1161
+5025# 17&quot; MONITOR 0.26 View
+1162
+5039# 21&quot; MONITOR 0.24 SONY
+1163
+5049# 17&quot; MONITOR 0.25 CTX 
+1164
+5050# 19&quot; MONITOR 0.26 CTX 
+1165
+5076# 19&quot; MONITOR 0.20 Sams
+1166
+5170# 19" MONITOR 0.26 Samsung 9
+1167
+5180# 17" MONITOR 0.25 ViewSonic
+1168
+5189# 14" MONITOR 0.28 IBM G42
+1169
+5241# 14" MONITOR 0.28 LG Studio
+1170
+316# Panasonic KXA155BX антенна 
+1171
+413# Пишущая машинка Canon QS100
+1172
+414# Пишущая машинка Canon QS-11
+1173
+448# Canon PC770 12 копий мин A4
+1174
+449# Canon PC-780      12 копий/
+1175
+466# Panasonic KXFA134 пленка 22
+1176
+928# Кроссбокс для Panasonic KXT
+1177
+1001# Drum Unit for CANON-6216/ 
+1178
+1061# Canon FC-200   (с картридж
+1179
+1063# Canon FC-220   (с картридж
+1180
+1066# Canon FC-336   (с картридж
+1181
+1652# Купюросчетный аппарат MAGN
+1182
+2196# Canon NP1215 15 копиймин A
+1183
+2197# Canon NP-6112   12 копий/ 
+1184
+2198# Canon NP6216 16 копий мин 
+1185
+2199# Canon NP-6312           12
+1186
+2201# Canon NP-6621          21 
+1187
+2232# Panasonic KXT2355 телефон
+1188
+2233# Panasonic KXTM81BX автоотв
+1189
+2234# Panasonic KX-TS10MX телефо
+1190
+2236# Panasonic KXF1000BX телефа
+1191
+2237# Panasonic KXF1050BX телефа
+1192
+2239# Panasonic KX-F1110BX телеф
+1193
+2240# Panasonic KXF910BXRS телеф
+1194
+2241# Panasonic KX-F1010BX/RS те
+1195
+2244# Panasonic KXF680BXRS телеф
+1196
+2245# Panasonic KXF780BXRS телеф
+1197
+2246# Panasonic KX-FT31BX/RS тел
+1198
+2250# Panasonic KXT1000 автоотве
+1199
+2251# Panasonic KXT2261 телефон
+1200
+2252# Panasonic KXT2395 телефон 
+1201
+2253# Panasonic KXT2470 телефон 
+1202
+2254# Panasonic KX-T2740B телефо
+1203
+2255# Panasonic KXT3155 телефон 
+1204
+2256# Panasonic KX-T3176 телефон
+1205
+2259# Panasonic KXTC408BXRU ртел
+1206
+2260# Panasonic KXTC409BXRU ртел
+1207
+2261# Panasonic KXTC418BXRU ртел
+1208
+2262# Panasonic KXTC419BXRU ртел
+1209
+2263# Panasonic KXTC423BXRU ртел
+1210
+2264# Panasonic KX-TC428BX/RU р/
+1211
+2267# Panasonic KXT7050 аналогов
+1212
+2268# Panasonic KXT7130 аналогов
+1213
+2269# Panasonic KXT7250 цифровой
+1214
+2271# Panasonic KX-T7880BX р/тел
+1215
+2272# Panasonic KXT206SBXRU АТС 
+1216
+2273# Panasonic KXT2310 телефон
+1217
+2274# Panasonic KXT2315 телефон
+1218
+2275# Panasonic KXT2335 телефон
+1219
+2276# Panasonic KXTS2365T2365RUW
+1220
+2277# Panasonic KXT30810B АТС 3x
+1221
+2278# Panasonic KXT61610BX АТС 6
+1222
+2280# Panasonic KXT7030 аналогов
+1223
+2281# Panasonic KXT7230 цифровой
+1224
+2282# Panasonic KXT7235 цифровой
+1225
+2283# Panasonic KXT7240 цифровая
+1226
+2284# Panasonic KXTD816 АТС 4x8 
+1227
+2287# Panasonic KXT9350BX ртелеф
+1228
+2291# Panasonic KXTC438BX ртелеф
+1229
+2292# Panasonic KXTC908BX ртелеф
+1230
+2293# Panasonic KXTC928BX ртелеф
+1231
+2298# Panasonic KXTD1232BXRU АТС
+1232
+2300# Panasonic KXTD170 плата ра
+1233
+2331# Panasonic UFS10 телефакс р
+1234
+2532# Panasonic KX-FA136A/X плен
+1235
+2852# Р/телефон LG GT-9520A (Баз
+1236
+2853# Р/телефон LG GT-9720A (Баз
+1237
+2854# Телефон LG GS-460
+1238
+2855# Телефон LG GS-460 F
+1239
+2856# Телефон LG GS480 ultra blu
+1240
+2857# Телефон LG GS- 5140
+1241
+2858# Телефон LG GS-690 (телефон
+1242
+2862# Дополнительная р/трубка LG
+1243
+2864# Доп. р/трубка SAGEM Mistra
+1244
+2896# Пишущая машинка Daewoo DAY
+1245
+2899# Пишущая машинка Olivetti E
+1246
+2900# Пишущая машинка Olivetti E
+1247
+2901# Пишущая машинка Olivetti L
+1248
+3211# Panasonic KX-TS5MX телефон
+1249
+3212# Panasonic KX-FT33RS телефа
+1250
+3307# Panasonic KX-TCM939-B р/те
+1251
+3308# Panasonic KX-TCM943-B р/те
+1252
+3309# Panasonic KX-TCC425B р/тел
+1253
+3310# Panasonic KX-TGM240B р/тел
+1254
+3331# Р/телефон LG GT-9540A (Баз
+1255
+3332# Р/телефон +А/отв. LG GT-97
+1256
+3354# Пишущая машинка Triumph-Ad
+1257
+3357# Р/телефон LG GT-9120A (Баз
+1258
+3409# Panasonic KX-TC955BX/RU р/
+1259
+3410# Panasonic KX-TC956BX/RU р/
+1260
+3411# Panasonic KX-TC976BX/RU р/
+1261
+3422# Факс SAGEM PHOENEFAX 350 +
+1262
+3474# Телефон LG GS-472 < <H> > 
+1263
+3475# Телефон LG GS-472L
+1264
+3476# Телефон LG GS-472 <M>  пам
+1265
+3864# Panasonic KX-TC1400B р/тел
+1266
+3865# Panasonic KX-TC907B р/теле
+1267
+4070# Panasonic KX-FT37RS телефа
+1268
+4172# Canon NP-6317           17
+1269
+4228# Р/телефон LG GT-9121A (Баз
+1270
+4249# Фетровый вал для Canon NP-
+1271
+4281# Плата соединения  LG GHX -
+1272
+4282# Mini-АТС LG GHX - 46HB KSU
+1273
+4284# Аналоговый системный телеф
+1274
+4285# Аналоговый системный телеф
+1275
+4286# Аналоговый системный телеф
+1276
+4346# Panasonic KX-FTC47BX телеф
+1277
+4390# Mini-АТС LG GHX - 36HB KSU
+1278
+4479# Canon NP-6416           16
+1279
+4508# Panasonic KX-F20BX телефак
+1280
+4536# Р/телефон LG GT-9130A (Баз
+1281
+4678# Р/телефон LG GT-9760A (Баз
+1282
+4702# Телефон LG GS-635
+1283
+4754# Panasonic KX-TS17MX телефо
+1284
+4755# Panasonic KX-TS27MX телефо
+1285
+4789# Плата соединения  LG GHX -
+1286
+4810# Panasonic KX-FT46BX телефа
+1287
+4894# Panasonic KX-FT21BX телефа
+1288
+4901# Телефакс  Sharp FO-175
+1289
+4932# Panasonic KX-FT42BX телефа
+1290
+4937# Panasonic KX-TS15MX телефо
+1291
+5162# Panasonic KX-TG2505BXF/B р
+1292
+5193# Panasonic KX-TG2575BXS р/т
+1293
+5204# Panasonic KX-TCD951 р/теле
+1294
+958# DIMM 128 Mb
+1295
+960# DIMM 128 Mb ECC with SPD  <
+1296
+961# DIMM 128 Mb DRAM EDO ECC BU
+1297
+962# DIMM 128 Mb with SPD  <PC-1
+1298
+963# DIMM 16 Mb
+1299
+966# DIMM 16 Mb with SPD  <PC-10
+1300
+967# DIMM 32 Mb ECC
+1301
+970# DIMM 32 Mb
+1302
+971# DIMM 32 Mb DRAM EDO ECC
+1303
+972# DIMM 32 Mb DRAM EDO ECC BUF
+1304
+975# DIMM 32 MB ECC with SPD  <P
+1305
+976# DIMM 32 Mb with SPD  <PC-10
+1306
+977# DIMM 64 Mb
+1307
+978# DIMM 64 Mb ECC
+1308
+981# DIMM 64 Mb ECC with SPD  <P
+1309
+982# DIMM 64 Mb DRAM EDO ECC BUF
+1310
+983# DIMM 64 Mb with SPD  <PC-10
+1311
+2701# SIMM 30pin 1Mb
+1312
+2703# SIMM 72pin 4Mb 1
+1313
+2704# SIMM 72pin 4Mb 2
+1314
+2706# SIMM 72pin 4Mb EDO 1
+1315
+2707# SIMM 72pin 4Mb EDO 2
+1316
+2709# SIMM 72pin 8Mb 1
+1317
+2712# SIMM 72pin 8Mb EDO 1
+1318
+2714# SIMM 72pin 128Mb EDO
+1319
+2715# SIMM 72pin 16Mb 1
+1320
+2716# SIMM 72pin 16Mb *2*
+1321
+2718# SIMM 72pin 16Mb EDO 1
+1322
+2719# SIMM 72pin 16Mb EDO *2*
+1323
+2720# SIMM 72pin 16Mb  <ECC> 
+1324
+2721# SIMM 72pin 32Mb ECC
+1325
+2722# SIMM 72pin 32Mb
+1326
+2723# SIMM 72pin 32Mb EDO 1
+1327
+2726# SIMM 72pin 64Mb EDO 1
+1328
+2727# SIMM 72pin 64Mb EDO  <ECC>
+1329
+2732# SOJ DRAM EDO 512 Kb 50 60 
+1330
+2733# SOJ DRAM EDO 512 Kb
+1331
+3400# DIMM 256 Mb DRAM EDO ECC B
+1332
+4148# DIMM 256 Mb with SPD  <PC-
+1333
+4333# DIMM 256 Mb ECC with SPD  
+1334
+4341# DIMM 128 Mb with SPD  <PC-
+1335
+4568# DIMM 64 Mb with SPD  <PC-1
+1336
+4571# DIMM 64 Mb with SPD  <PC-1
+1337
+416# Canon BJC240 Colorupgradabl
+1338
+417# Canon BJC-250  Color  струй
+1339
+419# Canon BJC-4300  ScanerUpgra
+1340
+420# Canon BJC4550 A3 струйный
+1341
+421# Canon BJC-4650  ScanerUpgra
+1342
+422# Canon BJC-50     ScanerUpgr
+1343
+424# Canon BJC-620   Color  A4  
+1344
+425# Canon BJC-7000  Color   A4+
+1345
+426# Canon BJC-80     ScanerUpgr
+1346
+442# Canon IS-12 Сканирующая цве
+1347
+443# Canon IS-22 Сканирующ. цв г
+1348
+929# Color Upgrade Kit for EPSON
+1349
+1018# Epson DFX-8500            
+1350
+1020# Epson STYLUS COLOR 1500   
+1351
+1022# Epson STYLUS COLOR 3000 A2
+1352
+1023# Epson STYLUS COLOR 300  (A
+1353
+1024# Epson STYLUS COLOR 400 A4 
+1354
+1025# Epson STYLUS COLOR 440  (A
+1355
+1026# Epson STYLUS PRO 5000 (6 к
+1356
+1027# Epson STYLUS COLOR 600 A4 
+1357
+1028# Epson STYLUS COLOR 640  (A
+1358
+1029# Epson STYLUS COLOR 740  (A
+1359
+1030# Epson STYLUS COLOR 800 A4 
+1360
+1032# Epson STYLUS Photo 6 красо
+1361
+1033# Epson STYLUS Photo 700 (A4
+1362
+1034# Epson STYLUS Photo EX (6 к
+1363
+1035# Epson STYLUS COLOR 1520 ст
+1364
+1036# Epson EPL-5700    лазерный
+1365
+1084# EPSON FX-1000             
+1366
+1085# Epson FX1170 матричный 9 p
+1367
+1086# Epson FX-1180             
+1368
+1088# Epson FX-2180             
+1369
+1090# Epson FX-880              
+1370
+1354# hp LaserJet 5M C3917A 12ст
+1371
+1359# hp JetDirect Card   <J2552
+1372
+1360# hp JetDirect Card J2556 61
+1373
+1361# hp JetDirect EX+3   <J2593
+1374
+1362# hp JetDirect EX J2591A EXT
+1375
+1367# hp OfficeJet PRO 1150C C53
+1376
+1389# hp COLOR LaserJet 5 C3961A
+1377
+1390# hp LaserJet 5L 4стрмин 1Mb
+1378
+1392# hp LaserJet 6L C3990A 6стр
+1379
+1394# hp Desk Jet 1120c   <C2678
+1380
+1397# hp Desk Jet 340CBi   <C267
+1381
+1398# hp Desk Jet 340Color   <C2
+1382
+1399# hp Desk Jet 400 C2642C стр
+1383
+1401# hp Desk Jet 420c   <C2642F
+1384
+1405# hp Desk Jet 690c C5890A ст
+1385
+1406# hp Desk Jet 690c Lite C589
+1386
+1407# hp Desk Jet 690c струйный 
+1387
+1408# hp Desk Jet 695c   <C4562В
+1388
+1409# hp Desk Jet 710c   <C5894A
+1389
+1410# hp Desk Jet 720c   <C5870A
+1390
+1413# hp Desk Jet 880c   <C6409A
+1391
+1414# hp Desk Jet 890c C5876A ст
+1392
+1415# hp Desk Jet 895Cxi   <C641
+1393
+1420# hp LaserJet 5N C3952A 12ст
+1394
+1421# hp LaserJet 5Si C3166A A3 
+1395
+1423# hp LaserJet 1100   <C4224A
+1396
+1425# hp LaserJet 2100   <C4170A
+1397
+1426# hp LaserJet 2100M   <C4171
+1398
+1428# hp LaserJet 4000   <C4118A
+1399
+1429# hp LaserJet 4000N   <C4120
+1400
+1430# hp LaserJet 4000T   <C4119
+1401
+1432# hp COLOR LaserJet 4500   <
+1402
+1435# hp LaserJet 5000   <C4110A
+1403
+1436# hp LaserJet 5000GN   <C411
+1404
+1437# hp LaserJet 5000N   <C4111
+1405
+1440# hp LaserJet 6P C3980A 8стр
+1406
+1441# hp LaserJet 8000   <C4085A
+1407
+1443# hp LaserJet 8000N   <C4086
+1408
+1446# Upgrade Kit hp LaserJet Co
+1409
+1626# Lexmark ColorJetPrinter 10
+1410
+1631# Lexmark ColorJetPrinter 57
+1411
+1637# Epson LQ100 матричный 24pi
+1412
+1639# Epson LQ2170 матричный 24 
+1413
+1640# Epson LQ-670              
+1414
+1643# Epson LX1050 матричный 9 p
+1415
+1644# Epson LX300 матричный 9pin
+1416
+2497# PhotoKit Canon BC-06 для B
+1417
+2519# hp JetDirect Card 600N   <
+1418
+2816# Epson STYLUS COLOR PRO XL 
+1419
+2817# Epson STYLUS1000 A3 25 стр
+1420
+2903# Tractor Unit for Epson DFX
+1421
+3232# Canon BJC-4400 Color  Scan
+1422
+3286# hp LaserJet 1100A   <C4218
+1423
+3303# hp JetDirect 170X   <J3258
+1424
+3304# hp LaserJet 2100TN   <C417
+1425
+3329# Canon BJC-2000 Color  Scan
+1426
+3418# Epson STYLUS Photo 750 (A4
+1427
+3448# Epson EPL-N1600  лазерный 
+1428
+3697# hp LaserJet 4050N   <C4253
+1429
+3698# hp LaserJet 4050TN   <C425
+1430
+3790# hp JetDirect 300X   <J3263
+1431
+3791# hp LaserJet 4050   <C4251A
+1432
+3848# hp COLOR LaserJet 4500N   
+1433
+3857# Canon BJC-1000 Color  A4 7
+1434
+3895# Epson STYLUS COLOR 900  (А
+1435
+3896# Epson STYLUS Photo 1200 (A
+1436
+3935# hp LaserJet 3100   <C3948A
+1437
+4002# Lexmark ColorJetPrinter 11
+1438
+4003# Lexmark ColorJetPrinter 32
+1439
+4027# hp Desk Jet 420c   <C2642E
+1440
+4084# hp Desk Jet 610c   <C6450A
+1441
+4247# hp Prof. Series 2000C   <C
+1442
+4348# hp Desk Jet 815c   <C6411A
+1443
+4684# hp Desk Jet 970Cxi   <C642
+1444
+4707# Canon BJC-5100  Color   A3
+1445
+4928# Lexmark OptraE310  (лазерн
+1446
+4929# Lexmark ColorJetPrinter Z1
+1447
+4930# Lexmark ColorJetPrinter Z5
+1448
+4957# Epson STYLUS COLOR 660  (A
+1449
+5046# Epson STYLUS COLOR 460  (A
+1450
+5161# hp Desk Jet 697c   <C4562С
+1451
+5192# Canon BJC-250ex  Color  ст
+1452
+217# CPU Adapter for Celeron (PG
+1453
+748# CPU Intel Pentium II 266 51
+1454
+749# CPU Intel Celeron 400   128
+1455
+750# CPU Intel Celeron 266   0K/
+1456
+751# CPU Intel Celeron 266   0K/
+1457
+752# CPU Intel Celeron 300   0K/
+1458
+753# CPU Intel Celeron 300   0K/
+1459
+754# CPU Intel Celeron 300A   12
+1460
+755# CPU Intel Celeron 300A   12
+1461
+756# CPU Intel Celeron 300A   12
+1462
+757# CPU Intel Celeron 333   128
+1463
+758# CPU Intel Celeron 333   128
+1464
+759# CPU Intel Celeron 333   128
+1465
+760# CPU Intel Celeron 366   128
+1466
+761# CPU Intel Celeron 366   128
+1467
+762# CPU Intel Celeron 400   128
+1468
+763# CPU IBM ST 6x86 P166
+1469
+766# CPU Cyrix/ IBM /M II    233
+1470
+767# CPU Cyrix/ IBM /M II    266
+1471
+768# CPU Cyrix/ IBM /M II    300
+1472
+769# CPU IBM /M II              
+1473
+771# CPU IDT W2  200 3D
+1474
+772# CPU Intel Pentium II 300 51
+1475
+776# CPU Intel Pentium II 333   
+1476
+777# CPU Intel Pentium II 333   
+1477
+778# CPU Intel Pentium II 350   
+1478
+779# CPU Intel Pentium II 350   
+1479
+780# CPU Intel Pentium II 400   
+1480
+781# CPU Intel Pentium II 400   
+1481
+782# CPU Intel Pentium II 450   
+1482
+783# CPU Intel Pentium II 450   
+1483
+784# CPU Intel Pentium III 500  
+1484
+787# CPU Intel Pentium II  Xeon 
+1485
+810# CPU AMD K5-PR75 66МГц Socke
+1486
+819# CPU Intel Pentium 100 66МГц
+1487
+831# CPU AMD K5PR133 66МГц Socke
+1488
+833# CPU Intel Pentium 133 66МГц
+1489
+841# CPU Intel Pentium 150 66МГц
+1490
+849# CPU Intel Pentium 166 66МГц
+1491
+852# CPU Intel Pentium 166 MMX 6
+1492
+854# CPU Intel Pentium OVERDRIVE
+1493
+869# CPU Intel Pentium 200 66МГц
+1494
+871# CPU Intel Pentium 200 MMX 6
+1495
+879#  CPU Intel Pentium 233 MMX 
+1496
+882# CPU Intel Pentium 233 MMX 6
+1497
+904# CPU AMD K62233 66МГц Socket
+1498
+905# CPU AMD K6-PR266  66МГц    
+1499
+906# CPU AMD K6-PR300  66МГц    
+1500
+907# CPU AMD K6-2/266  66МГц    
+1501
+908# CPU AMD K6-2/300  66МГц    
+1502
+909# CPU AMD K6-2/333  66МГц    
+1503
+910# CPU AMD K6-2/350  66МГц    
+1504
+911# CPU AMD K6-2/366  66МГц    
+1505
+912# CPU AMD K6-2/380  95МГц    
+1506
+913# CPU AMD K6-2/400  100МГц   
+1507
+914# CPU IDT C6   200 MMX
+1508
+916# CPU Cyrix IBM M II 200 MMX
+1509
+3257# CPU Intel Celeron 366   12
+1510
+3258# CPU Intel Pentium III 450 
+1511
+3259# CPU Intel Pentium III 500 
+1512
+3278# CPU Intel Pentium II 350  
+1513
+3298# CPU Intel Celeron 300A   1
+1514
+3317# CPU AMD K6-III 400  256К/ 
+1515
+3407# CPU Intel Celeron 433   12
+1516
+3416# CPU Intel Pentium III 450 
+1517
+3424# CPU Intel Pentium II 400 5
+1518
+3466# CPU AMD K6-2/450  100МГц  
+1519
+3472# CPU Intel Celeron 333   12
+1520
+3473# CPU Intel Celeron 366   12
+1521
+3606# CPU Intel Celeron 400   12
+1522
+3608# CPU RISE mP6-266
+1523
+3784# CPU AMD K6-2/200  66МГц   
+1524
+3840# CPU Intel Pentium III 550 
+1525
+3899# CPU Intel Celeron 400   12
+1526
+3937# CPU Intel Celeron 466   12
+1527
+4114# CPU Cyrix/ IBM /M II    40
+1528
+4195# CPU Intel Celeron 433   12
+1529
+4338# CPU AMD K6-2/475  100МГц  
+1530
+4349# CPU Intel Celeron 500   12
+1531
+4399# CPU Intel Pentium III 600 
+1532
+4509# CPU AMD K6-III 450  256К/ 
+1533
+4542# CPU Intel Celeron 466   12
+1534
+4644# CPU AMD ATHLON K7-500  512
+1535
+4713# CPU Intel Pentium III 600B
+1536
+4968# CPU Intel Celeron 433   12
+1537
+5052# CPU Intel Pentium III 533B
+1538
+5198# CPU Intel Pentium III Xeon
+1539
+1# AUTO switch AGX211AS201P 2 1 
+1540
+2# AUTO switch Bi-Directional (A
+1541
+3# AUTO switch (AGX411/421) 4 / 
+1542
+4# Кабель  BITRONICS для EPP  <3
+1543
+5# Кабель  BITRONICS для EPP 1, 
+1544
+6# Кабель  BITRONICS для EPP  < 
+1545
+7# Кабель автосвич 3 м 25М25М
+1546
+8# Кабель автосвич 5 м 25М25М
+1547
+9# Кабель автосвич 15 18 м 25М25
+1548
+10# Кабель CENTRONICS для SPP 18
+1549
+11# Data switch 2/1 (ручной) (LP
+1550
+13# Звуковой шлейф к CDROM
+1551
+14# Data switch 2/1 ручной (Din5
+1552
+15# Data switch 4/1 ручной (Din5
+1553
+16# Разветвитель VGA401 1in ->  
+1554
+17# Разветвитель VGA801 1in ->  
+1555
+214# Переходник с обычной клры н
+1556
+215# Переходник с PS/2 кл-ры на 
+1557
+319# Сетевой фильтр APC Surge Ar
+1558
+320# Сетевой фильтр APC Surge Ar
+1559
+372# Кабель 0модемный универсаль
+1560
+373# Кабель 0модемный 25F25F 18м
+1561
+374# Кабель модемный,  универсал
+1562
+377# Кабель удлинительный для кл
+1563
+378# Кабель удлинительный 1, 8м 
+1564
+379# Кабель монитор компьютер 22
+1565
+380# Кабель удлинительный монито
+1566
+381# Кабель удлинительный монито
+1567
+382# Кабель 15 M 15 M 15м
+1568
+384# Кабель компьютер розетка 22
+1569
+385# Кабель компьютер розетка 22
+1570
+386# Кабель телефонный внутренни
+1571
+392# Кабель UTP 4 пары кат5 PCNe
+1572
+394# Кабель RG58
+1573
+397# Кабель RG-58 бухта   < < 50
+1574
+398# Cable SCSI 50 pin 3 connect
+1575
+401# Cable W-SCSI 68 pin 3 conne
+1576
+404# Кабель UTP 2 пары кат.3  <б
+1577
+408# Cable UW SCSI 68 pin 3 conn
+1578
+409# Cable UW SCSI 68 pin 8 conn
+1579
+698# Кабель модемный
+1580
+724# RJ11 Коннектор телефонный 6
+1581
+725# RJ-11 Коннектор телефонный 
+1582
+726# RJ12 Коннектор телефонный 6
+1583
+727# Коннектор BNC обжимной
+1584
+728# BNC IКоннектор female
+1585
+729# RJ45 Коннектор Кат5
+1586
+730# BNC TКоннектор
+1587
+741# Patch Cord UTP кат5 2м
+1588
+742# Patch Cord UTP кат5 1м
+1589
+743# Patch Cord UTP кат5 3м
+1590
+744# Patch Cord UTP кат5 5м
+1591
+949# Genius NewSketch 1212 HR2HR
+1592
+953# Genius NewSketch 1812 HR (1
+1593
+954# Genius EasyPainter 5 x 5 10
+1594
+955# Genius EasyPen (4" x 3",  2
+1595
+956# Genius Kids Designer 7 x 5 
+1596
+957# Genius WizardPad (5" x 4", 
+1597
+1021# Epson STYLUS-200 (A4 3 стр
+1598
+1042# EPSON Photo500 digital 640
+1599
+1043# EPSON PhotoPC 600 (digital
+1600
+1102# Glass filter Euro Screen
+1601
+1345# Наушники с микрофоном FILA
+1602
+1349# Наушники SONY MDR-007PC2
+1603
+1350# Наушники SONY MDR-009VPC2 
+1604
+1377# hp DesignJet 700 Mono (ver
+1605
+1485# IDE Cable 3 connectors
+1606
+1486# IDE Cable ( 2 connectors )
+1607
+1490# Размножитель питания IDEус
+1608
+1491# Размножитель питания IDE-у
+1609
+1492# Размножитель питания IDE-у
+1610
+1656# Комплект кабелей для Mb Pe
+1611
+2062# MIRO Video DC10 карта виде
+1612
+2063# Pinnacle Studio DC10plus+Р
+1613
+2065# MIRO Video DC30 RTL карта 
+1614
+2066# MIRO Video DC30 RTL карта 
+1615
+2068# MIRO Video DRX карта видео
+1616
+2070# MIRO Video Studio 400  <RT
+1617
+2072# MIRO Video DV300  <RTL>  (
+1618
+2073# TV Tuner       ДУ        M
+1619
+2074# Микрофон
+1620
+2075# Микрофон Arowana/ Naiko
+1621
+2076# Микрофон Genius Mic01A
+1622
+2080# Наушники
+1623
+2081# Наушники с микрофоном  (с 
+1624
+2157# Upgrade Module 4Mb WRAM дл
+1625
+2159# Upgrade Module 2Mb WRAM дл
+1626
+2207# OKI Page 4 W лазерный A4 6
+1627
+2221# Коврик для Handy Scanner M
+1628
+2222# Коврик для мыши VERBATIM E
+1629
+2223# Коврик для мыши ViewSonic 
+1630
+2224# Коврик для мыши тканевый
+1631
+2335# Patch Panel 19 UTP 24 port
+1632
+2336# Patch Panel 19" UTP 48 por
+1633
+2364# Iomega BUZ BS00CDDP  <ZORA
+1634
+2498# Коврик для мыши с рисунком
+1635
+2499# Сетевой фильтр типа PILOT 
+1636
+2504# Сетевой фильтр (типа PILOT
+1637
+2505# Сетевой фильтр (типа PILOT
+1638
+2540# Розетка внешняя телефонная
+1639
+2541# Розетка внешняя двойная RJ
+1640
+2542# Розетка внешняя RJ45 кат5 
+1641
+2691# Controller SIDE2910 NCR810
+1642
+2695# SF FM RadioCard
+1643
+2697# Upgrade Module 4MB SGRAM д
+1644
+2849# BNC Терминатор
+1645
+2912# TV Tuner FM              A
+1646
+2913# TV Tuner                  
+1647
+2933# TV Tuner FM ДУ        AVer
+1648
+2936# TV Tuner       ДУ        G
+1649
+2938# TV Tuner       ДУ        T
+1650
+2939# TV Tuner ДУ Tekram M230 SV
+1651
+2940# TV Tuner       ДУ        T
+1652
+2943# TV Tuner                  
+1653
+2960# UPS 1400VA Back Pro APC BP
+1654
+2961# UPS 2200VA Smart APC SU220
+1655
+2970# Upgrade Kit MIRO Video Pro
+1656
+2971# UPS 800VA  PowerCom Smart 
+1657
+2972# UPS 3000VA APC Matrix +Bat
+1658
+2973# UPS 5000VA APC Matrix  <MX
+1659
+2978# UPS 250VA PowerCom
+1660
+2983# UPS 325VA PowerCom Back
+1661
+2988# UPS 420VA  Back Pro APC  <
+1662
+2992# UPS 425VA PowerCom Back
+1663
+2999# UPS 525VA PowerCom Back
+1664
+3003# UPS 600VA PowerCom Smart S
+1665
+3005# UPS 625VA PowerCom Back
+1666
+3006# UPS 650VA Back Pro APC BP6
+1667
+3010# UPS 700VA Smart APC SU700I
+1668
+3013# UPS 800AP PowerCom Back PR
+1669
+3016# UPS 1000VA Back Pro APC BP
+1670
+3017# UPS 1000VA Smart APC SU100
+1671
+3019# UPS 1000VA Smart APC  <SU1
+1672
+3024# UPS 1000VA PowerCom Smart 
+1673
+3025# UPS 1000AP PowerCom Back P
+1674
+3029# UPS 1200AP PowerCom Back P
+1675
+3030# UPS 1250VA PowerCom Smart
+1676
+3031# UPS 1400VA Smart APC SU140
+1677
+3033# UPS 1400VA Smart APC  <SU1
+1678
+3039# UPS 1500VA PowerCom Smart+
+1679
+3041# UPS 1600AP PowerCom Back P
+1680
+3042# UPS 2000VA PowerCom Smart+
+1681
+3043# UPS 2200VA Smart APC  <SU2
+1682
+3044# UPS 280VA  Back Pro APC  <
+1683
+3047# UPS 3000VA Smart APC SU300
+1684
+3048# UPS 3000VA Smart APC  <SU3
+1685
+3049# UPS 300VA  Back Mi APC    
+1686
+3053# UPS 420VA Smart APC   <SU4
+1687
+3055# UPS 425AP PowerCom Back PR
+1688
+3056# UPS 500VA  Back Mi APC    
+1689
+3058# UPS 500VA PowerCom Slim Ba
+1690
+3059# UPS 620VA Smart APC   <SU6
+1691
+3060# UPS 625AP PowerCom Back PR
+1692
+3061# UPS 650VA  Back Pro APC  <
+1693
+3062# UPS 650VA  Back Mi APC    
+1694
+3064# UPS 700VA Smart APC    <SU
+1695
+3065# UPS 700VA Smart APC    <SU
+1696
+3176# Microsoft Windows NT 40 Wo
+1697
+3177# Microsoft Windows 95 Рус O
+1698
+3179# Microsoft Windows 31
+1699
+3203# Модернизация компьютера
+1700
+3219# TV Tuner       ДУ EXT AVer
+1701
+3343# RJ-45 Коннектор Кат.5 (упа
+1702
+3358# Cable UW SCSI 68 pin 5 con
+1703
+3396# TV Tuner                  
+1704
+3401# Data switch 4/1 ручной (LP
+1705
+3517# Наушники с микрофоном Geni
+1706
+3519# AUTO switch Bi-Directional
+1707
+3521# Canopus DVRaptor camcoder 
+1708
+3586# Кабель UTP 4 пары кат.5e  
+1709
+3683# Телефонный переходник  6P4
+1710
+3684# Телефонный разветвитель 6P
+1711
+3685# Розетка внешняя телефонная
+1712
+3700# Наушники PHILIPS SBC HM100
+1713
+3752# Кабель удлинительный для м
+1714
+3773# Canopus DVRaptor camcoder 
+1715
+3775# Cable  <U2W>  LVD SCSI 68 
+1716
+3788# MIRO Video DV200  <RTL>  (
+1717
+3798# Наушники с микрофоном UTT 
+1718
+3829# Кабель удлинительный монит
+1719
+3858# DC to AC Inverter HW75E In
+1720
+3947# UPS 2500VA PowerCom Smart+
+1721
+3948# UPS 3000VA PowerCom Smart+
+1722
+3955# UPS 500VA Back APC        
+1723
+3959# Розетка внешняя RJ-45 кат.
+1724
+3962# MIRO Video BlueBox (внешни
+1725
+3963# MIRO Video Studio MP10  <C
+1726
+4048# UPS 2000AP PowerCom Back P
+1727
+4093# MediaForte e-PEN JU-0605 (
+1728
+4103# Скотч прозрачный 50х66 уп-
+1729
+4121# UPS 1500AP PowerCom Back P
+1730
+4183# Интернет-карта МТУ-информ 
+1731
+4184# Интернет-карта МТУ-информ 
+1732
+4185# Интернет-карта МТУ-информ 
+1733
+4208# IDE cable 80жил UDMA66 ( 2
+1734
+4304# Кабель монитор - SVGA card
+1735
+4317# Data switch 2/1 ручной (PS
+1736
+4318# Data switch 4/1 ручной (Di
+1737
+4319# Data switch 4/1 ручной (PS
+1738
+4320# Переходник для COM 9F/ 25М
+1739
+4321# Переходник для мыши 9F/ 6F
+1740
+4322# Переходник для 9М/ 9М
+1741
+4323# Переходник для мыши 9М/ 6М
+1742
+4324# Кабель 0-модемный   25F/25
+1743
+4328# SN2441 Аккумуляторая отвер
+1744
+4342# Data switch 2/1 ручной (кл
+1745
+4343# Data switch 4/1 ручной (кл
+1746
+4363# Переходник для COM 9M/ 25F
+1747
+4391# Сетевой фильтр (улучшенная
+1748
+4415# TV Tuner       ДУ        A
+1749
+4416# TV Tuner FM ДУ        Acor
+1750
+4431# Коврик для мыши Defender с
+1751
+4456# Кабель BITRONICS для EPP P
+1752
+4457# Кабель BITRONICS для EPP P
+1753
+4458# Кабель монитор - SVGA card
+1754
+4497# Кабель перекл. клавиатуры 
+1755
+4498# Кабель перекл. клавиатуры 
+1756
+4506# MIRO Video DC1000  <RTL>  
+1757
+4577# TV Tuner FM ДУ        Pixe
+1758
+4607# Сетевой фильтр SVEN Silver
+1759
+4776# Patch Cord UTP кат.5  1.5м
+1760
+4778# USB HUB  4 port Longshine 
+1761
+4819# UPS 330VA PowerCom Back  <
+1762
+4820# UPS 460VA PowerCom Back  <
+1763
+4821# UPS 500VA PowerCom Back  <
+1764
+4839# Data switch 2/1 ручной (Di
+1765
+4840# Кабель USB A--> B  (1.8м)
+1766
+4872# TV Tuner FM ДУ         <Fl
+1767
+4873# TV Tuner       ДУ         
+1768
+4952# Cable SCSI 50 pin 2 connec
+1769
+4992# IDE cable 80жил UDMA66 ( 3
+1770
+5056# Кабель монитор - SVGA card
+1771
+5151# TV Tuner       ДУ        P
+1772
+455# Кж Canon BC02 BLACK для BJC
+1773
+456# Кж Canon BC05 COLOR для BJC
+1774
+459# Кж для EPSON FX2170 LQ2170 
+1775
+467# Кж hp 51645A BLACK для hp D
+1776
+468# К-ж Canon BC-62 Photo COLOR
+1777
+470# Кж для EPSON DFX5000 DFX800
+1778
+473# Набор к-жей для EPS ST3000 
+1779
+475# Кж для EPSON FX1000 LX1050 
+1780
+476# Кж hp 51626A BLACK для hp D
+1781
+478# Кж hp 51625A COLOR для hp D
+1782
+479# Кж hp 92274A для hp LJ 4L 4
+1783
+480# Кж hp C3900A для hp LJ 4V 4
+1784
+481# К-ж hp 51626G BLACK для hp 
+1785
+482# Кж hp C3906A для hp LJ 3100
+1786
+484# Кж hp 92298A для hp LJ 4 4 
+1787
+485# Кж hp C3909A для hp LJ 8000
+1788
+486# Кж hp 51629A BLACK для hp D
+1789
+487# Кж hp 51649A COLOR для hp D
+1790
+488# К-ж hp C1816A Photo   для h
+1791
+489# Кж hp C3903A для hp LJ 5P 6
+1792
+490# К-ж hp 51645G Black для hp 
+1793
+491# К-ж hp C1823A COLOR для hp 
+1794
+492# Кж hp 51641A COLOR для hp D
+1795
+494# Кж hp 92298X для hp LJ 4 4 
+1796
+496# К-ж hp 51629G BLACK для hp 
+1797
+498# К-ж hp C4092A для hp LJ 110
+1798
+499# К-ж hp C4127A  для hp LJ 40
+1799
+500# К-ж hp C4127X  для hp LJ 40
+1800
+501# К-ж hp C4129X для hp LJ 500
+1801
+502# Кж для EPSON LQ100
+1802
+504# К-ж для EPSON  LX-300 / LX-
+1803
+506# К-ж  <PRINT-RITE>  S020025 
+1804
+507# К-ж  <TRI-color>  S020049 C
+1805
+509# Кж S020110 COLOR для EPS ST
+1806
+511# Кж S020039 2x20025 BLACK DB
+1807
+512# Кж S020062S020010 BLACK для
+1808
+513# Кж S020097 COLOR для EPS ST
+1809
+514# К-ж S020138 COLOR для EPS S
+1810
+515# К-ж S020122 Yellow для EPS 
+1811
+516# Кж S020093 BLACK для EPS ST
+1812
+517# Кж S020089 COLOR для EPS ST
+1813
+518# Кж S020047 BLACK для EPS ST
+1814
+519# Кж для Star NX1000XR1000 XR
+1815
+520# Кж S020108 BLACK для EPS ST
+1816
+521# Кж S020049 COLOR для EPS ST
+1817
+522# Кж S020034 BLACK для EPS ST
+1818
+523# Кж S020036 COLOR для EPS ST
+1819
+524# Кж S020066 COLOR для EPS ST
+1820
+943# Девелопер AQC SHP (Sharp Z-
+1821
+1000# Drum Unit Canon JAPAN для 
+1822
+1012# Кж Canon E16 661050 для FC
+1823
+1013# Кж Canon E3031 для FCPC Or
+1824
+1049# Термобумага для факса шири
+1825
+1495# Чернила LG HI-Jet для Cano
+1826
+1496# Чернильница  <PRINT-RITE> 
+1827
+1497# Чернильница  <PRINT-RITE> 
+1828
+1502# Набор чернил INK JET BC01/
+1829
+2143# Multistrike Film Cassette 
+1830
+2337# EPSON S04112620л A4 бумага
+1831
+2340# EPSON S041068 A3 бумага 72
+1832
+2341# EPSON S041061 A4 бумага дл
+1833
+2347# EPSON S041079 A2 бумага 72
+1834
+2349# KymCopyLuxYesYes Bronze A3
+1835
+2352# KymCopyLuxYes Bronze A4 бу
+1836
+2353# KymCopy <ULTRA> /Yes Silve
+1837
+2355# EPSON S041134 4x 6 бумага 
+1838
+2356# EPSON S041145 210x594mm бу
+1839
+2357# EPSON S041122 8"x10" бумаг
+1840
+2358# EPSON S041054 A6 бумага Ph
+1841
+2359# EPSON S041140(20л) A4 бума
+1842
+2360# EPSON S041106 A4 бумага Ph
+1843
+2507# FOLEX IJHR115 A4 бумага 20
+1844
+2866# Тонер аналог Canon для NP6
+1845
+2867# Тонер (аналог) Canon FC/PC
+1846
+2869# Тонер (аналог) Canon FC/PC
+1847
+2870# Тонер (аналог) Canon FC/PC
+1848
+2871# Тонер (аналог) Canon FC/PC
+1849
+2872# Тонер (аналог) Canon FC/PC
+1850
+2873# Тонер Canon NPG1 JAPAN для
+1851
+2874# Тонер Canon NPG11 JAPAN дл
+1852
+2875# Тонер OKI 09002390 OkiPage
+1853
+2876# Тонер OKI (OkiPage 6e/6ex;
+1854
+2879# Тонер Panasonic FQ-TK20 (д
+1855
+2881# Тонер Panasonic KX -P457-B
+1856
+3250# Тонер OKI  <00079801>  для
+1857
+3283# К-ж S020187 BLACK для EPS 
+1858
+3284# К-ж S020191 Color для EPS 
+1859
+3292# К-ж hp C4096A  для hp LJ 2
+1860
+3353# К-ж Canon EP-A для LBP-460
+1861
+3367# К-ж S020189 Black для EPS 
+1862
+3376# Чернила LG HI-Jet для Cano
+1863
+3377# xxxx Девелопер PQC SHP (Sh
+1864
+3378# К-ж  <Unicorn>  Canon BCI-
+1865
+3379# К-ж  <Unicorn>  S020025 BL
+1866
+3381# К-ж  <Unicorn>  S020036 CO
+1867
+3382# К-ж  <Unicorn>  S020047 BL
+1868
+3383# К-ж  <Unicorn>  S020049 CO
+1869
+3384# К-ж  <Unicorn>  S020062 BL
+1870
+3385# К-ж  <Unicorn>  S020093 BL
+1871
+3386# К-ж  <Unicorn>  S020097 CO
+1872
+3387# К-ж  <Unicorn>  S020108 BL
+1873
+3403# К-ж OKI Black     для OKI 
+1874
+3404# К-ж OKI Cyan     для OKI J
+1875
+3405# К-ж OKI Magenta для OKI Je
+1876
+3406# К-ж OKI Yellow    для OKI 
+1877
+3449# Тонер (аналог) для  OkiPag
+1878
+3468# Фотобарабан (аналог) для C
+1879
+3469# Фотобарабан (аналог) для C
+1880
+3478# К-ж hp 51633M BLACK для hp
+1881
+3692# К-ж Canon BC-20 Black для 
+1882
+3693# К-ж Canon BC-60 Black для 
+1883
+3694# К-ж Canon BC-61 COLOR для 
+1884
+3724# К-ж Panasonic KX -PEP3 (дл
+1885
+3828# К-ж S020118 BLACK для EPS 
+1886
+3841# К-ж S020147 CYAN/Light CYA
+1887
+3870# К-ж S020143 Magenta/LightM
+1888
+4019# К-ж Panasonic KX -PEP5 (дл
+1889
+4049# К-ж LG для Epson Stylus 82
+1890
+4050# К-ж LG для Epson Stylus 80
+1891
+4051# К-ж LG для Epson Stylus PR
+1892
+4052# К-ж LG для Epson Stylus PR
+1893
+4053# К-ж LG для Epson Stylus 15
+1894
+4054# К-ж LG для Epson Stylus PR
+1895
+4055# К-ж LG для Epson Stylus Co
+1896
+4056# К-ж LG для Epson Stylus Co
+1897
+4057# К-ж LG для Epson Stylus Ph
+1898
+4058# К-ж LG для Epson Stylus Co
+1899
+4059# К-ж LG для Epson Stylus Co
+1900
+4060# К-ж LG для Epson Stylus Co
+1901
+4120# К-ж Canon BC-06 Photo COLO
+1902
+4138# hp A4 бумага Inkjet Paper 
+1903
+4163# Lexmark 1402650 A4 бумага 
+1904
+4164# Lexmark 1402994 A4 бумага 
+1905
+4173# К-ж hp C1823D COLOR для hp
+1906
+4260# EPSON S041073 A3 пленка Ph
+1907
+4262# EPSON S041107 A6 пленка Ph
+1908
+4276# К-ж S020193 COLOR для EPS 
+1909
+4290# К-ж Canon BX-3 Black для F
+1910
+4336# К-ж Panasonic UG3313 (для 
+1911
+4347# К-ж hp C6614AE/DE Black дл
+1912
+4365# Тонер Canon NPG-9 (JAPAN) 
+1913
+4378# Фотобарабан FQ-HF13 Panaso
+1914
+4460# EPSON S041154 A4 бумага 36
+1915
+4559# EPSON S041123 A2 бумага Ph
+1916
+4570# К-ж Canon A-30 для FC/PC (
+1917
+4747# К-ж Sagem TTR815/812 для P
+1918
+4846# Чернила LG HI-Jet для Cano
+1919
+4848# Чернила LG HI-Jet для Epso
+1920
+4849# Чернила LG HI-Jet для Epso
+1921
+4924# К-ж Lexmark 12A1970 Black 
+1922
+4925# К-ж Lexmark 12A1980 Color 
+1923
+4927# К-ж Lexmark 15M0120 Color 
+1924
+4934# MoDo Data Copy A4 бумага (
+1925
+20# Fast E-net HUB 4 port  <NETG
+1926
+24# Fast E-net HUB 8 port  <NETG
+1927
+27# Fast E-net Stackable HUB 16 
+1928
+185# 3com 3C590 Карта Combo Ethe
+1929
+187# 3com 3C905TX Карта PCI UTP
+1930
+188# Карта 3com 3C509B Combo ISA
+1931
+189# Карта 3com 3C509BTPC ISA UT
+1932
+190# 3com 3C509BTPO Карта ISA UT
+1933
+192# 3com  <3C905B/CX-TX-NM>   К
+1934
+209# Acorp 56EMS    EXT 56K     
+1935
+210# Acorp 56IMS      ISA 56K   
+1936
+312# Карта Fast E-net Allied Tel
+1937
+313# Карта Fast E-net Allied Tel
+1938
+333# AVAKS Ягуар 5614RE <+>   EX
+1939
+334# AVAKS 5614RH <+>           
+1940
+336# AVAKS Ягуар 5614RE 56RK EXT
+1941
+340# AVAKS Порше 5614XH       IS
+1942
+701# COMPEX FL100TX             
+1943
+702# COMPEX TP1006C             
+1944
+704# COMPEX TP1008C Enet HUB 10B
+1945
+706# COMPEX TP1016C Enet HUB 10B
+1946
+707# COMPEX CX2224S-16          
+1947
+710# COMPEX MX2208S/SA          
+1948
+713# COMPEX RX2208S/SA          
+1949
+714# COMPEX TX2216S/SA          
+1950
+715# COMPEX 100TX (TX3208B)     
+1951
+716# COMPEX 100TX (TX3216B)     
+1952
+717# COMPEX LinkPort/TX         
+1953
+719# COMPEX LinkPort ENET-B/A  К
+1954
+720# COMPEX ReadyLink RL100TX Ка
+1955
+721# COMPEX ReadyLink RL2000A Ка
+1956
+722# COMPEX ReadyLink RL2000   К
+1957
+925# Creative Modem Blaster DI5/
+1958
+926# Creative Modem Blaster DI56
+1959
+927# Creative Modem Blaster V143
+1960
+945# Diamond SupraExpress 56i PR
+1961
+946# Diamond SupraExpress 336e  
+1962
+947# Diamond SupraExpress 56e   
+1963
+1015# ElineCom 33600         EXT
+1964
+1016# ElineCom 33600         ISA
+1965
+1092# Genius GF100TX Карта Fast 
+1966
+1454# Enet MiniHUB 10BaseT 16 po
+1967
+1455# SureCom EP505ST Enet MiniH
+1968
+1456# SureCom EP508T Enet MiniHu
+1969
+1460# Genius  <GH4050>   E-net c
+1970
+1464# Enet HUB 10BaseT 18 port R
+1971
+1465# 3com  <OfficeConnect 3C167
+1972
+1466# E-net HUB 16 port  <NETGEA
+1973
+1467# E-net HUB 16 port  <NETGEA
+1974
+1468# SureCom  <EP-517T>   E-net
+1975
+1470# E-net HUB 24 port  <NETGEA
+1976
+1473# Enet HUB 10BaseT 5 port Re
+1977
+1474# E-net MicroHUB 5 port Long
+1978
+1476# 3com  <OfficeConnect 3C167
+1979
+1477# 3com  <OfficeConnect 3C167
+1980
+1478# E-net HUB 8 port  <NETGEAR
+1981
+1479# E-net HUB 8 port  <NETGEAR
+1982
+1480# Enet HUB 10BaseT 9 port Re
+1983
+1481# E-net HUB Slimline 4 port 
+1984
+1483# E-net HUB Slimline 6 port 
+1985
+1484# E-net HUB Slimline 8 port 
+1986
+2094# Momenta56  M56VAP  PCI  56
+1987
+2182# Карта NE2000 ISA16 BNCUTP 
+1988
+2184# Карта NE2000 ISA16 BNC Lon
+1989
+2185#  <NE-2000>   Карта ISA-16 
+1990
+2186# Longshine Repotec NE2000 К
+1991
+2188# Genius NE2000 Карта PCI32 
+1992
+2189# Longshine Repotec EP325 NE
+1993
+2191# Карта Fast E-net NETGEAR F
+1994
+2194# NetStarterKit  <NETGEAR FB
+1995
+2203# Genius GH4080SE Enet Hub 1
+1996
+2527# Enet Repeater Repotec 2 po
+1997
+2528# Enet Repeater Repotec 7 po
+1998
+2529# Карта Fast E-net Repotec/R
+1999
+2835# E-net Switch 10 port  <NET
+2000
+2837# COMPEX SXP1202A           
+2001
+2838# COMPEX SXP1210A           
+2002
+2840# Fast E-net Switch 4 port  
+2003
+2841# Fast E-net Switch 8 port  
+2004
+2945# USR Courier ISA 33600 OEM
+2005
+2946# USR Courier EXT 33600 RTL
+2006
+2947# USR Courier EXT 33600 RTL 
+2007
+2949# USR Courier ISA 33600 RTL
+2008
+2955# USR Courier     EXT 33600 
+2009
+3072# USR Sportster EXT 14400 VI
+2010
+3073# USR Sportster ISA 14400 RT
+2011
+3074# USR Sportster ISA 14400   
+2012
+3077# USR Sportster EXT 33600 RT
+2013
+3078# USR Sportster EXT 33600 VI
+2014
+3083# USR Sportster ISA 33600 OE
+2015
+3084# USR Sportster ISA 33600 VI
+2016
+3085# USR Sportster EXT 33600 VI
+2017
+3086# USR Sportster ISA 33600 RT
+2018
+3087# USR Sportster ISA 33600 VI
+2019
+3088# USR Sportster ISA 33600 VI
+2020
+3089# USR Sportster EXT 56K     
+2021
+3091# USR Sportster EXT 56K     
+2022
+3092# USR Sportster ISA 56K OEM
+2023
+3094# USR Sportster ISA 56K VI O
+2024
+3095# USR Sportster ISA 56K    V
+2025
+3096# USR Sportster PCI  56K    
+2026
+3097# USR Sportster EXT 56K     
+2027
+3189# ZyXEL Elite2864 28800 Seri
+2028
+3190# ZyXEL Omni 288S 28800 Rus
+2029
+3191# ZyXEL U336E EXT Rus
+2030
+3195# ZyXEL Comet 3356  EXT 56K 
+2031
+3196# ZyXEL 1496E EXT 1920014400
+2032
+3269# 3com  <SuperStack2 3C16440
+2033
+3270# E-net HUB 24port  <3COM Su
+2034
+3271# 3com  <OfficeConnect 3C167
+2035
+3272# 3com  <OfficeConnect 3C167
+2036
+3393# Карта 3com 3C509B-TP ISA U
+2037
+3408# AVAKS Порше 5614CH       P
+2038
+3460# USR Courier     ISA  56K  
+2039
+3491# USR Sportster PCI  56K    
+2040
+3497# USR Courier     EXT 33600 
+2041
+3498# Acorp 336IMS   ISA   33600
+2042
+3499# Acorp 336EMS  EXT 33600   
+2043
+3781# Rockwell 5614RHS   PCI  56
+2044
+3792# COMPEX SXP2208            
+2045
+3802# Acorp 56PIM      PCI  56K 
+2046
+3888# ElineCom 56000         EXT
+2047
+3889# ElineCom 56000         ISA
+2048
+3918# USR Sportster EXT 56K     
+2049
+3927# USR Courier     EXT 56K   
+2050
+3940# COMPEX SDX1208            
+2051
+3941# COMPEX SXP2216/A          
+2052
+3954# Карта 3com 3C509B-CX ISA A
+2053
+3956# AVAKS Порше 5614MHS    PCI
+2054
+3990# Creative Modem Blaster DI3
+2055
+3991# Карта Fast E-net Siemens P
+2056
+3994# Diamond SupraExpress 56ePR
+2057
+4043# Genius GM56PCI-L     PCI  
+2058
+4109# Genius  <GE2500III>   Карт
+2059
+4116# 3com  <OfficeConnect 3C167
+2060
+4169# COMPEX RX1204             
+2061
+4170# COMPEX LinkPort/Combo56   
+2062
+4197# Diamond SupraExpress 336i 
+2063
+4209# Print-server Longshine LCS
+2064
+4210# Print-server Longshine LCS
+2065
+4212# Print-server Longshine LCS
+2066
+4213# Карта NE-2000 PCI-32  <UTP
+2067
+4220# Карта Fast E-net Longshine
+2068
+4221# E-net MiniRepeater   <Sure
+2069
+4345# Fast E-net HUB 100Base-TX 
+2070
+4353# Карта 3com 3C590 TPO PCI U
+2071
+4355# E-net Dual Speed HUB 5port
+2072
+4356# E-net Dual Speed HUB 8port
+2073
+4357# SureCom  <EP-502C>   E-net
+2074
+4358# SureCom  <EP-320XR/S/-V1> 
+2075
+4359# SureCom  <EP-808X>   Fast 
+2076
+4401# Genius GM56PCI-L     PCI  
+2077
+4429# Genius GM56flexE-V EXT 56K
+2078
+4433# Realtek  <8139> / MPX  <EN
+2079
+4441# Motorola Data/Fax Modem   
+2080
+4448# Creative Modem Blaster DI5
+2081
+4449# Creative Modem Blaster DI5
+2082
+4593# COMPEX PS2208/A/B         
+2083
+4629# USR Sportster EXT 56K     
+2084
+4665# USR Sportster ISA 33600   
+2085
+4668# COMPEX RX2205S            
+2086
+4686# USR Sportster EXT 28800   
+2087
+4687# USR Sportster ISA 33600   
+2088
+4745# ElineCom HSP 56000 PCI  56
+2089
+4805# USR Sportster PCI  56K    
+2090
+4828# Print-server Longshine LCS
+2091
+4842# COMPEX SXP1216/A          
+2092
+4843# COMPEX SXP1224(B)         
+2093
+4859# COMPEX TX2232SA           
+2094
+4861# COMPEX TX2224SA           
+2095
+4933# USR Sportster ISA 56K     
+2096
+4938# NewCom 336efx          EXT
+2097
+4939# NewCom 56kifxsp(A)   ISA  
+2098
+4987# E-net HUB 8 port  <3COM Of
+2099
+4998# COMPEX MX2216S            
+2100
+5012# Rockwell AM56Soft  PCI  56
+2101
+5103# 3com  <3C905B-TX>   Карта 
+2102
+5107# Rockwell AM56Soft  PCI  56
+2103
+5191# Motorola Data/Fax Modem 56
+2104
+5223# ZyXEL OMNI 56K           E
+2105
+1104# Genius COLORPAGE HR 5 plai
+2106
+1105# Genius COLORPAGE HR 5   <P
+2107
+1109# Genius COLORPAGE VIEW (pla
+2108
+1110# Genius COLORPAGE VIEW PRO 
+2109
+1113# Genius COLORPAGE VIVID PRO
+2110
+1114# Genius COLORPAGE VIVID PRO
+2111
+1117# Genius SCANMATE EasyScan C
+2112
+1118# Genius SCANMATE color Port
+2113
+1383# hp ScanJet 4100C (C6297A) 
+2114
+1384# hp ScanJet 5100C (C5197A) 
+2115
+1385# hp ScanJet 6100C C6267A A4
+2116
+1386# hp ScanJet 6200C (C6277A) 
+2117
+1387# hp ScanJet 6250C (C6278A) 
+2118
+1449# hp ScanJet 4c A4 Color pla
+2119
+1451# hp ScanJet 4s C1127A A4 ру
+2120
+1452# hp ScanJet 5p A4 Color pla
+2121
+2162# Mustek  ScanMagic 9636 P (
+2122
+2163# Mustek Paragon 1200 SP
+2123
+2164# Mustek Paragon 1200 A3 PRO
+2124
+2165# Mustek  ScanExpress 12000 
+2125
+2170# Mustek Paragon 800 II SP C
+2126
+2172# Mustek Paragon 1200 SP PRO
+2127
+2173# Mustek  ScanExpress/Magic 
+2128
+2174# Mustek  ScanExpress 6000P 
+2129
+2175# Mustek  ScanExpress 6000SP
+2130
+2176# Mustek  ScanExpress/Magic 
+2131
+2177# Mustek ScanExpress12000 SP
+2132
+2178# Mustek  ScanExpress A3-EP 
+2133
+3226# Mustek  ScanExpress 1200 E
+2134
+3260# hp ScanJet 3200C (C7167A) 
+2135
+3268# hp ScanJet 5200C (C7197A) 
+2136
+3356# Mustek  ScanExpress 600 US
+2137
+3479# hp ScanJet 4200C (C7177A) 
+2138
+3524# Mustek  ScanExpress A3-SP 
+2139
+3806# Genius COLORPAGE VIVID PRO
+2140
+3995# Genius COLORPAGE VIVID PRO
+2141
+4464# Mustek  ScanExpress 1200 C
+2142
+4465# Mustek  ScanExpress 600  C
+2143
+4612# hp ScanJet 3300C (C7687A) 
+2144
+4627# hp ScanJet 6300C (C7677A) 
+2145
+4628# hp ScanJet 6350C (C7678A) 
+2146
+4632# Mustek  ScanExpress 1200 U
+$
