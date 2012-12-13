@@ -1,0 +1,200 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      6789,        190]
+NotebookOptionsPosition[      6028,        160]
+NotebookOutlinePosition[      6366,        175]
+CellTagsIndexPosition[      6323,        172]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.564384485311543*^9, 3.564384487676332*^9}, {
+  3.564384552053773*^9, 3.564384570718944*^9}, {3.5643869188555193`*^9, 
+  3.564386921240767*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Length", "[", 
+  RowBox[{"XLS", "[", 
+   RowBox[{"[", "1", "]"}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.564384604546413*^9, 3.5643846169849052`*^9}, {
+  3.5643851461647778`*^9, 3.564385191854093*^9}}],
+
+Cell[BoxData["32"], "Output",
+ CellChangeTimes->{{3.564384607574869*^9, 3.564384615009377*^9}, {
+  3.564385148202611*^9, 3.564385192585599*^9}}]
+}, Open  ]],
+
+Cell[BoxData["\[IndentingNewLine]"], "Input",
+ CellChangeTimes->{{3.5643853710787277`*^9, 3.564385476312155*^9}, {
+  3.564385571768406*^9, 3.564385731567068*^9}, {3.564385981528323*^9, 
+  3.5643860034502983`*^9}, {3.56438604088813*^9, 3.564386052638413*^9}, {
+  3.5643869247597237`*^9, 3.564386926917324*^9}}],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"XLS", " ", "=", " ", 
+   RowBox[{
+   "Import", "[", "\"\</home/pocto/mme-praks/XLSes/first.xls\>\"", "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"list", "[", 
+   RowBox[{"table_", ",", "colnum_"}], "]"}], ":=", 
+  RowBox[{"Flatten", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"Rest", "[", 
+       RowBox[{
+        RowBox[{"Transpose", "[", 
+         RowBox[{"XLS", "[", 
+          RowBox[{"[", "table", "]"}], "]"}], "]"}], "[", 
+        RowBox[{"[", "1", "]"}], "]"}], "]"}], ",", 
+      RowBox[{"Rest", "[", 
+       RowBox[{
+        RowBox[{"Transpose", "[", 
+         RowBox[{"XLS", "[", 
+          RowBox[{"[", "table", "]"}], "]"}], "]"}], "[", 
+        RowBox[{"[", "colnum", "]"}], "]"}], "]"}]}], "}"}], ",", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"{", "2", "}"}], ",", 
+      RowBox[{"{", "1", "}"}]}], "}"}]}], "]"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"export", "[", 
+   RowBox[{"file_", ",", "colnum_", ",", "colnum2_"}], "]"}], ":=", 
+  RowBox[{"Export", "[", 
+   RowBox[{"file", ",", 
+    RowBox[{"ListLinePlot", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"list", "[", 
+        RowBox[{"1", ",", "colnum"}], "]"}], ",", 
+       RowBox[{"list", "[", 
+        RowBox[{"2", ",", "colnum2"}], "]"}]}], "}"}], "]"}]}], 
+   "]"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"export", "[", 
+   RowBox[{"file_", ",", "colnum_"}], "]"}], ":=", 
+  RowBox[{"Export", "[", 
+   RowBox[{"file", ",", 
+    RowBox[{"ListLinePlot", "[", 
+     RowBox[{"{", 
+      RowBox[{"list", "[", 
+       RowBox[{"2", ",", "colnum"}], "]"}], "}"}], "]"}]}], 
+   "]"}]}], "\[IndentingNewLine]"}], "Input",
+ CellChangeTimes->{{3.564386121482098*^9, 3.564386337720416*^9}, {
+  3.564386759197378*^9, 3.5643867608825207`*^9}, {3.564386930939928*^9, 
+  3.564386931497034*^9}, {3.5643874913191013`*^9, 3.5643875168780537`*^9}, {
+  3.564387708493122*^9, 3.564387733850088*^9}}],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.564386461159265*^9, 3.564386468641777*^9}, {
+  3.564386507663265*^9, 3.5643865455291986`*^9}},
+ EmphasizeSyntaxErrors->True],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.56438523976528*^9, 3.564385241916597*^9}, {
+  3.5643853016354733`*^9, 3.564385314756166*^9}, {3.564385367313439*^9, 
+  3.564385369590479*^9}, {3.564385738739188*^9, 3.5643857454840307`*^9}, {
+  3.564386073571206*^9, 3.564386078200324*^9}, {3.564386364676779*^9, 
+  3.5643863894127073`*^9}, {3.564386522145672*^9, 3.564386560702559*^9}, {
+  3.56438661273818*^9, 3.56438664994173*^9}, {3.5643866989296217`*^9, 
+  3.5643867543855124`*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"\[IndentingNewLine]", 
+  RowBox[{"export", "[", 
+   RowBox[{
+   "\"\</home/pocto/mme-praks/second/eps/10.eps\>\"", ",", "11", ",", "12"}], 
+   "]"}]}]], "Input",
+ CellChangeTimes->{{3.564386730064385*^9, 3.564386730389134*^9}, {
+  3.564386765290144*^9, 3.564386772033229*^9}, {3.564386910058021*^9, 
+  3.56438694363144*^9}, {3.564387002296486*^9, 3.56438700248105*^9}, {
+  3.564387057955946*^9, 3.564387244633391*^9}, {3.564387344173099*^9, 
+  3.5643873648542*^9}, {3.5643873979297113`*^9, 3.564387402946664*^9}, {
+  3.564387526823744*^9, 3.564387537758415*^9}, {3.564387602816647*^9, 
+  3.564387606660152*^9}, {3.5643876421064262`*^9, 3.564387644234302*^9}, {
+  3.564387679622938*^9, 3.564387679721059*^9}, {3.564387745712659*^9, 
+  3.564387751338051*^9}, {3.564387811010276*^9, 3.564387814801091*^9}, {
+  3.5643878961984577`*^9, 3.5643879167466097`*^9}, {3.564388162030078*^9, 
+  3.564388200404291*^9}}],
+
+Cell[BoxData["\<\"/home/pocto/mme-praks/second/eps/10.eps\"\>"], "Output",
+ CellChangeTimes->{{3.5643863704114017`*^9, 3.564386389861396*^9}, 
+   3.5643866512389317`*^9, 3.5643867728971863`*^9, 3.564386911411235*^9, 
+   3.5643870041110067`*^9, {3.5643870796483994`*^9, 3.564387245417303*^9}, 
+   3.564387365794717*^9, 3.564387404060186*^9, {3.564387555857255*^9, 
+   3.564387607247368*^9}, 3.564387644807816*^9, 3.564387680311142*^9, 
+   3.564387751835849*^9, 3.564387816334866*^9, {3.564387907847479*^9, 
+   3.5643879176462173`*^9}, {3.5643881704503813`*^9, 3.56438820128487*^9}}]
+}, Open  ]],
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.5643860707248983`*^9, 3.564386070753376*^9}}],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[""], "Input",
+ CellChangeTimes->{{3.564385527523281*^9, 3.56438555413064*^9}}],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"1", ",", "2"}], "}"}]], "Output",
+ CellChangeTimes->{{3.564385539280691*^9, 3.564385552246182*^9}}]
+}, Open  ]]
+},
+WindowSize->{740, 598},
+WindowMargins->{{-34, Automatic}, {Automatic, -8}},
+FrontEndVersion->"8.0 for Linux x86 (64-bit) (February 23, 2011)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 192, 3, 30, "Input"],
+Cell[CellGroupData[{
+Cell[774, 27, 232, 5, 30, "Input"],
+Cell[1009, 34, 144, 2, 29, "Output"]
+}, Open  ]],
+Cell[1168, 39, 309, 4, 50, "Input"],
+Cell[1480, 45, 1963, 55, 164, "Input"],
+Cell[3446, 102, 173, 3, 30, "Input"],
+Cell[3622, 107, 485, 7, 30, "Input"],
+Cell[CellGroupData[{
+Cell[4132, 118, 929, 16, 50, "Input"],
+Cell[5064, 136, 581, 7, 29, "Output"]
+}, Open  ]],
+Cell[5660, 146, 94, 1, 30, InheritFromParent],
+Cell[CellGroupData[{
+Cell[5779, 151, 91, 1, 30, "Input"],
+Cell[5873, 154, 139, 3, 29, "Output"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+
